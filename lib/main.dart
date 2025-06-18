@@ -1,9 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_med_/pages/home_page.dart';
 
-//import 'package:graduation_med_/pages/on_boarding_screen.dart';
-import 'package:graduation_med_/pages/signin_page.dart';
-import 'package:graduation_med_/pages/signup_page.dart';
+import 'pages/on_boarding_screen.dart';
+import 'pages/on_boarding_screens/first_screen.dart';
+import 'pages/on_boarding_screens/second_screen.dart';
+import 'pages/on_boarding_screens/third_screen.dart';
+
+
+import 'pages/setting.dart';
+import 'pages/home_page.dart';
+import 'pages/signin_page.dart';
+import 'pages/signup_page.dart';
 
 void main(){
   runApp(MyApp());
@@ -15,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SignupPage(),
+      home: Setting1(),
       
        //---------------------------
        theme: ThemeData(
