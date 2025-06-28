@@ -1,13 +1,13 @@
 import "package:flutter/material.dart";
 
-class Setting1 extends StatefulWidget {
-  const Setting1({super.key});
+class Setting2 extends StatefulWidget {
+  const Setting2({super.key});
 
   @override
-  State<Setting1> createState() => _Setting1State();
+  State<Setting2> createState() => _Setting2State();
 }
 
-class _Setting1State extends State<Setting1> {
+class _Setting2State extends State<Setting2> {
   bool isThemeAutomatic = false;
 
   @override
@@ -23,16 +23,18 @@ class _Setting1State extends State<Setting1> {
               children: [
                 Padding(
                   padding: EdgeInsets.symmetric(vertical: 25.0, horizontal: 25),
-                  child: Row(
+                  child: Center(
+                    child:Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                
                     children: [
                       Icon(Icons.arrow_back_ios, color: Colors.black),
-                      Text("Settings",
+                      Text("Language",
                           style: TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 24,
                               color: Colors.black)),
-                      Stack(
+                     Stack(
                         children: [
                           Icon(Icons.notifications_none, color: Colors.black),
                           Positioned(
@@ -46,15 +48,15 @@ class _Setting1State extends State<Setting1> {
                                 shape: BoxShape.circle,
                               ),
                             ),
-                          ),
-                        ],
-                      ),
+                          ),]
+                     ),
                     ],
+                    ),
                   ),
                 ),
                 const Center(
                   child: SizedBox(
-                    width: 100,
+                    width: 300,
                     child: Divider(thickness: 1, color: Colors.black),
                   ),
                 ),
@@ -64,82 +66,27 @@ class _Setting1State extends State<Setting1> {
                   child: Column(
                     children: [
                       SettingsRow(
-                        title: 'Share App',
+                        title: 'English',
                         onTap: () {},
                       ),
                       SettingsRow(
-                        title: 'Logout',
+                        title: 'Arabic',
                         onTap: () {},
                       ),
                     ],
                   ),
                 ),
-                SizedBox(height: 100),
-                const Align(
-                  alignment: Alignment.centerLeft,
-                  child: Padding(
-                    padding: EdgeInsets.symmetric(vertical: 14.0, horizontal: 34),
-                    child: Text("Appearance",
-                        style: TextStyle(
-                          fontWeight: FontWeight.bold,
-                          fontSize: 24,
-                          color: Colors.black,
-                        )),
-                  ),
-                ),
-                Center(
-                  child: SizedBox(
-                    width: 300,
-                    child: Divider(thickness: 1, color: Colors.black),
-                  ),
-                ),
-                Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 34),
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      Text(
-                        'Theme Automatic',
-                        style: TextStyle(
-                          fontWeight: FontWeight.bold,
-                          fontSize: 24,
-                        ),
-                      ),
-                      Switch(
-                        value: isThemeAutomatic,
-                        onChanged: (val) {
-                          setState(() => isThemeAutomatic = val);
-                        },
-                        activeColor: Colors.black,
-                        inactiveThumbColor: Colors.black,
-                        activeTrackColor: Color(0xFFEFF3FF),
-                        inactiveTrackColor: Color(0xFFEFF3FF),
-                      ),
-                    ],
-                  ),
-                ),
-                Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 34),
-                  child: Column(children: [
-                    SettingsRow(
-                      title: 'Language',
-                      onTap: () {},
-                    ),
-                  ]),
-                ),
-
-                
-                SizedBox(height: 300),
-
-
-                Align(
+              
+              SizedBox(height: 300),
+              Align(
                   alignment: Alignment.bottomRight,
                   child: Padding(
-                    padding: const EdgeInsets.only(right: 34, bottom: 20),
+                    padding: const EdgeInsets.only(right: 34, bottom: 10), 
                     child: Container(
-                      height: 60,
+                      height: 100,
                       width: 60,
-                      decoration: BoxDecoration(shape: BoxShape.circle),
+                      decoration: BoxDecoration(shape: BoxShape.circle, color:Theme.of(context).colorScheme.secondary,),
+                    
                       child: FloatingActionButton(
                         onPressed: () {},
                         shape: CircleBorder(),
@@ -148,15 +95,20 @@ class _Setting1State extends State<Setting1> {
                     ),
                   ),
                 ),
-              ],
-            ),
-          ),
+
+
+
+              ]
         ),
       ),
 
 
 
+
+
       
+    ),
+      ),
     );
   }
 }

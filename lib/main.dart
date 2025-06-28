@@ -1,15 +1,13 @@
 import 'package:flutter/material.dart';
 
-import 'pages/on_boarding_screen.dart';
-import 'pages/on_boarding_screens/first_screen.dart';
-import 'pages/on_boarding_screens/second_screen.dart';
-import 'pages/on_boarding_screens/third_screen.dart';
 
 
-import 'pages/setting.dart';
 import 'pages/home_page.dart';
-import 'pages/signin_page.dart';
-import 'pages/signup_page.dart';
+
+import 'pages/setting2.dart';
+
+
+
 
 void main(){
   runApp(MyApp());
@@ -21,10 +19,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Setting1(),
+      home: Setting2(),
       
        //---------------------------
-       theme: ThemeData(
+  theme: ThemeData(
   colorScheme: ColorScheme(
     brightness: Brightness.light,
     surface:Color(0xff93D5E1),
