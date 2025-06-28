@@ -204,14 +204,34 @@ child: Container(
       ]
 ),
 ),
+
+
+
+
+
+
+ bottomNavigationBar: Container(
+        padding: EdgeInsets.symmetric(vertical: 8),
+        decoration: BoxDecoration(
+          color: Color(0xFFD9DCEB),
+          borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
+        ),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            NavBarIcon(icon: Icons.home),
+            NavBarIcon(icon: Icons.person),
+            NavBarIcon(icon: Icons.shopping_bag_outlined),
+            NavBarIcon(icon: Icons.chat_bubble_outline),
+            NavBarIcon(icon: Icons.settings),
+          ],
+        ),
+      ),
+  
+
 );
   }
 }
-
-
-
-
-
 
 
 
