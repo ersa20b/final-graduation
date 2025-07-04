@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
 class Base extends StatelessWidget {
-  const Base({super.key});
+  const Base({super.key, required Padding child});
 
   @override
   Widget build(BuildContext context) {
     return  Column(
       children: [
         SizedBox(
-          height: 200,
+          height:530,
         ),
         Expanded(
           child: ClipRRect(

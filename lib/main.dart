@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:graduation_med_/pages/addmed14.dart';
 
 
 
 import 'pages/home_page.dart';
 
-import 'pages/setting2.dart';
 
 
 
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Setting2(),
+      home: BlisterCounterScreen(),
       
        //---------------------------
   theme: ThemeData(
