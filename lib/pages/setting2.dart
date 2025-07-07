@@ -13,7 +13,7 @@ class _Setting2State extends State<Setting2> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xFFEFF3FF),
+      backgroundColor: Theme.of(context).colorScheme.onError,
       body: SafeArea(
         child: SingleChildScrollView(
           physics: BouncingScrollPhysics(),
@@ -28,7 +28,7 @@ class _Setting2State extends State<Setting2> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 
                     children: [
-                      Icon(Icons.arrow_back_ios, color: Colors.black),
+                      Icon(Icons.arrow_back_ios, color: Theme.of(context).colorScheme.onSecondary),
                       Text("Language",
                           style: TextStyle(
                               fontWeight: FontWeight.bold,
@@ -36,7 +36,7 @@ class _Setting2State extends State<Setting2> {
                               color: Colors.black)),
                      Stack(
                         children: [
-                          Icon(Icons.notifications_none, color: Colors.black),
+                          Icon(Icons.notifications_none, color: Theme.of(context).colorScheme.onSecondary),
                           Positioned(
                             top: 4,
                             right: 4,

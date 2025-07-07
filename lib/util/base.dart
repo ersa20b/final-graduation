@@ -8,7 +8,7 @@ class Base extends StatelessWidget {
     return  Column(
       children: [
         SizedBox(
-          height:530,
+          height:300,
         ),
         Expanded(
           child: ClipRRect(
