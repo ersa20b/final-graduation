@@ -11,15 +11,26 @@ class BlisterCounterScreen extends StatefulWidget {
 class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
   int _blisterCount = 1;
 
+
+  @override
+  void initState() {
+    super.initState();
+    print('addmed14 page starte ');
+  
+  }
+
+
   void _increment() {
     setState(() {
       _blisterCount++;
+      print('Increment pressed. Count: $_blisterCount');
     });
   }
 
   void _decrement() {
     setState(() {
       if (_blisterCount > 0) _blisterCount--;
+      print('Decrement pressed. Count: $_blisterCount');
     });
   }
 
@@ -31,56 +42,8 @@ class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
         child: Column(
           children: [
          
-           Stack(
-              children: [
-              //1
-               Positioned(
-               top: 10,
-              left: -60,
-              child: Transform.rotate(
-              angle: -0.4, // rotate counter-clockwise
-        child: Image.asset( 'assets/images/blister2.png',
-          width: 190, // adjust width for bigger size
-          fit: BoxFit.contain,
-        ),
-      ),
-    ),
-
-  
-                        
-                        //2
-                           Positioned(
-                           top: 10,
-                           left: 300,
-                           child: Transform.rotate(
-                           angle: 0.4, // rotate counter-clockwise
-                           child: Image.asset( 'assets/images/blister2.png',
-                            width: 140, // adjust width for bigger size
-                            fit: BoxFit.contain,
-                          ),
-                            ),
-                               ),
-    
-
-
+         
      
-                        //3
-                           Positioned(
-                           top: 8,
-                           left: 260,
-                           child: Transform.rotate(
-                           angle: 0.3, // rotate counter-clockwise
-                           child: Image.asset( 'assets/images/blister1.png',
-                            width: 140, // adjust width for bigger size
-                            fit: BoxFit.contain,
-                          ),
-                            ),
-                               ),
-
-   
-  ],
-),
-
 
         
 Align(
@@ -133,6 +96,7 @@ Align(
                 ),
                 onPressed: () {
                   // Handle action
+                  print('Button pressed.');
                 },
                 child: const Text("Next", style: TextStyle(fontSize: 18)),
               ),

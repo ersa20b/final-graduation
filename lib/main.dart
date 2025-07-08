@@ -1,15 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:graduation_med_/pages/addmed14.dart';
-
-
-
 import 'pages/home_page.dart';
 
 
 
 
-
 void main(){
+   print('App Started');
   runApp(MyApp());
 }
 class MyApp extends StatelessWidget {
