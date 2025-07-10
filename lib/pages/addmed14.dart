@@ -49,7 +49,7 @@ class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
 Align(
   alignment: Alignment.centerLeft,
   child: Padding(
-    padding: const EdgeInsets.only(left: 80), 
+    padding: const EdgeInsets.only(left: 60, top:80), 
     child: const Text(
       'Number of blisters:',
       style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
@@ -61,7 +61,7 @@ Align(
 
             // Counter Row
             Padding(
-             padding: const EdgeInsets.only(left: 60), 
+             padding: const EdgeInsets.only(left: 40), 
               child: Row(
               
                 children: [
@@ -88,7 +88,7 @@ Align(
 
             // Next Button
             SizedBox(
-              width: 200,
+              width: 320,
               height: 50,
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
@@ -101,7 +101,7 @@ Align(
                   // Handle action
                   print('Button pressed.');
                 },
-                child: const Text("Next", style: TextStyle(fontSize: 18)),
+                child: Text("Next", style: TextStyle(fontSize: 18, color: Theme.of(context).colorScheme.onPrimary)),
               ),
             ),
           ],
