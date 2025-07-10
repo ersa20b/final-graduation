@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:graduation_med_/util/base2donia.dart';
 
+import 'package:graduation_med_/pages/addmed14.dart';
+
+
 class PillCounterScreen extends StatefulWidget {
   const PillCounterScreen({super.key});
 
@@ -43,7 +46,7 @@ class _BlisterCounterScreenState extends State<PillCounterScreen> {
 Align(
   alignment: Alignment.centerLeft,
   child: Padding(
-    padding: const EdgeInsets.only(left: 80), 
+    padding: const EdgeInsets.only(left: 60, top:80), 
     child: const Text(
       'Number of pills in a blister:',
       style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
@@ -54,45 +57,51 @@ Align(
             const SizedBox(height: 10),
 
             // Counter Row
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                _counterButton("-", _decrement),
-                Container(
-                  width: 80,
-                  height: 50,
-                  alignment: Alignment.center,
-                  margin: const EdgeInsets.symmetric(horizontal: 8),
-                  decoration: BoxDecoration(
-                    border: Border.all(color: Colors.grey.shade300),
-                    borderRadius: BorderRadius.circular(12),
+            Padding(
+               padding: const EdgeInsets.only(left: 60), 
+              child: Row(
+              
+                children: [
+                  _counterButton("-", _decrement),
+                  Container(
+                    width: 200,
+                    height: 50,
+                    alignment: Alignment.center,
+                    margin: const EdgeInsets.symmetric(horizontal: 8),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Text(
+                      '$_pillCount',
+                      style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                    ),
                   ),
-                  child: Text(
-                    '$_pillCount',
-                    style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-                  ),
-                ),
-                _counterButton("+", _increment),
-              ],
+                  _counterButton("+", _increment),
+                ],
+              ),
             ),
             const SizedBox(height: 30),
 
             // Next Button
-            SizedBox(
-              width: double.infinity,
-              height: 50,
-              child: ElevatedButton(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Theme.of(context).colorScheme.surface,
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
+            Padding(
+              padding: const EdgeInsets.only(left: 60), 
+              child: SizedBox(
+                width: 330,
+                height: 50,
+                child: ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Theme.of(context).colorScheme.surface,
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
                   ),
+                  onPressed: () {
+                    // Handle action
+                    print('Button pressed.');
+                  },
+                  child: Text("Next", style: TextStyle(fontSize: 18, color: Theme.of(context).colorScheme.onPrimary,) ),
                 ),
-                onPressed: () {
-                  // Handle action
-                  print('Button pressed.');
-                },
-                child: const Text("Next", style: TextStyle(fontSize: 18)),
               ),
             ),
           ],

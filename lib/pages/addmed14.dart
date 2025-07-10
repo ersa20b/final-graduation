@@ -60,32 +60,35 @@ Align(
             const SizedBox(height: 10),
 
             // Counter Row
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                _counterButton("-", _decrement),
-                Container(
-                  width: 80,
-                  height: 50,
-                  alignment: Alignment.center,
-                  margin: const EdgeInsets.symmetric(horizontal: 8),
-                  decoration: BoxDecoration(
-                    border: Border.all(color: Colors.grey.shade300),
-                    borderRadius: BorderRadius.circular(12),
+            Padding(
+             padding: const EdgeInsets.only(left: 60), 
+              child: Row(
+              
+                children: [
+                  _counterButton("-", _decrement),
+                  Container(
+                    width: 200,
+                    height: 50,
+                    alignment: Alignment.center,
+                    margin: const EdgeInsets.symmetric(horizontal: 8),
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.grey.shade300),
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Text(
+                      '$_blisterCount',
+                      style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                    ),
                   ),
-                  child: Text(
-                    '$_blisterCount',
-                    style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-                  ),
-                ),
-                _counterButton("+", _increment),
-              ],
+                  _counterButton("+", _increment),
+                ],
+              ),
             ),
             const SizedBox(height: 30),
 
             // Next Button
             SizedBox(
-              width: double.infinity,
+              width: 200,
               height: 50,
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
