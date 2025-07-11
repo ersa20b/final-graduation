@@ -9,7 +9,7 @@ class Base3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        const SizedBox(height: 350),
+        const SizedBox(height: 400),
         Expanded(
           child: Container(
             decoration: const BoxDecoration(

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:graduation_med_/util/base3donia.dart';
 
-class InjectionVolume extends StatefulWidget {
-  const InjectionVolume({Key? key}) : super(key: key);
+class DropperVolume extends StatefulWidget {
+  const DropperVolume({Key? key}) : super(key: key);
 
   @override
-  State<InjectionVolume> createState() => _InjectionVolumeState();
+  State<DropperVolume> createState() => _InjectionVolumeState();
 }
 
-class _InjectionVolumeState extends State<InjectionVolume> {
+class _InjectionVolumeState extends State<DropperVolume> {
   // for the text input field 
   final TextEditingController _volumeController = TextEditingController(text: "00");
 
@@ -22,7 +22,7 @@ class _InjectionVolumeState extends State<InjectionVolume> {
             children: [
               const SizedBox(height: 80),
               const Text(
-                'Volume of injection medication bottle:',
+                'Volume of drop medication bottle:',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
                 textAlign: TextAlign.center,
               ),
@@ -32,7 +32,7 @@ class _InjectionVolumeState extends State<InjectionVolume> {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 40),
                 child: Image.asset(
-                  'assets/images/brownbottle.PNG', 
+                  'assets/images/dropper.PNG', 
                   height: 220,
                   fit: BoxFit.contain,
                 ),
