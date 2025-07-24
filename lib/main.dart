@@ -3,8 +3,13 @@ import 'package:graduation_med_/pages/addme10.dart';
 import 'package:graduation_med_/pages/addmed14.dart';
 import 'package:graduation_med_/pages/addmed13.dart';
 import 'package:graduation_med_/pages/addmed18.dart';
+import 'package:graduation_med_/pages/addmed19.dart';
+import 'package:graduation_med_/pages/addmed12.dart';
+import 'package:graduation_med_/pages/addmed15.dart';
 import 'package:graduation_med_/pages/addmed9.dart';
-import 'package:graduation_med_/util/base3donia.dart';
+import 'package:graduation_med_/pages/on_boarding_screen.dart';
+
+
 import 'pages/home_page.dart';
 
 
@@ -21,7 +26,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: DropperVolume(),
+      home: LiquidDose(),
       
        //---------------------------
   theme: ThemeData(

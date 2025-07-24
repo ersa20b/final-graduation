@@ -9,7 +9,8 @@ class Base3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        const SizedBox(height: 400),
+       SizedBox(height: MediaQuery.of(context).size.height * 0.4), 
+
         Expanded(
           child: Container(
             decoration: const BoxDecoration(
