@@ -6,6 +6,8 @@ import 'package:graduation_med_/pages/addmed18.dart';
 import 'package:graduation_med_/pages/addmed19.dart';
 import 'package:graduation_med_/pages/addmed12.dart';
 import 'package:graduation_med_/pages/addmed15.dart';
+import 'package:graduation_med_/pages/addmed16.dart';
+import 'package:graduation_med_/pages/addmed17.dart';
 import 'package:graduation_med_/pages/addmed9.dart';
 import 'package:graduation_med_/pages/on_boarding_screen.dart';
 
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LiquidDose(),
+      home: PuffCount(),
       
        //---------------------------
   theme: ThemeData(

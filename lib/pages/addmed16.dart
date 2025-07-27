@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:graduation_med_/util/base3donia.dart';
 
-class DropperVolume extends StatefulWidget {
-  const DropperVolume({Key? key}) : super(key: key);
+class PufferVolume extends StatefulWidget {
+  const PufferVolume({Key? key}) : super(key: key);
 
   @override
-  State<DropperVolume> createState() => _DropperVolumeState();
+  State<PufferVolume> createState() => _PufferVolumeState();
 }
 
-class _DropperVolumeState extends State<DropperVolume> {
+class _PufferVolumeState extends State<PufferVolume> {
   // for the text input field 
   final TextEditingController _volumeController = TextEditingController(text: "00");
 
@@ -22,7 +22,7 @@ class _DropperVolumeState extends State<DropperVolume> {
             children: [
               const SizedBox(height: 80),
               const Text(
-                'Volume of drop medication bottle:',
+                'Volume of inhaler medication dosage:',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
                 textAlign: TextAlign.center,
               ),
@@ -32,7 +32,7 @@ class _DropperVolumeState extends State<DropperVolume> {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 40),
                 child: Image.asset(
-                  'assets/images/dropper.PNG', 
+                  'assets/images/puffer.PNG', 
                   height: 220,
                   fit: BoxFit.contain,
                 ),
@@ -66,7 +66,7 @@ class _DropperVolumeState extends State<DropperVolume> {
                   ),
 
                   const SizedBox(width: 10),
-                  const Text("ml", style: TextStyle(fontSize: 16)),
+                  const Text("Actuations Puffs", style: TextStyle(fontSize: 16)),
 
                   const SizedBox(width: 20),
 
