@@ -87,7 +87,7 @@ class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
             ),
 
 
-            // adding space between the increase/decrease cpntainer buttons and the next button
+            // adding space between the increase/decrease container buttons and the next button
             const SizedBox(height: 30),
 
 
