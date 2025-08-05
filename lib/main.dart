@@ -1,22 +1,11 @@
 import 'package:flutter/material.dart';
-<<<<<<< HEAD
+
 import 'package:graduation_med_/pages/home_page.dart';
-import 'package:graduation_med_/pages/treatment_phases.dart';
+
 import 'package:graduation_med_/providers/auth_provider.dart';
 import 'package:provider/provider.dart';
-=======
-import 'package:graduation_med_/pages/addme10.dart';
-import 'package:graduation_med_/pages/addmed14.dart';
-import 'package:graduation_med_/pages/addmed13.dart';
-import 'package:graduation_med_/pages/addmed18.dart';
-import 'package:graduation_med_/pages/addmed19.dart';
-import 'package:graduation_med_/pages/addmed12.dart';
-import 'package:graduation_med_/pages/addmed15.dart';
-import 'package:graduation_med_/pages/addmed16.dart';
-import 'package:graduation_med_/pages/addmed17.dart';
-import 'package:graduation_med_/pages/addmed9.dart';
-import 'package:graduation_med_/pages/on_boarding_screen.dart';
->>>>>>> 87a2a495220e17bbbff3abbcebd26015d6d8bdff
+
+
 
 void main() {
   runApp(
@@ -36,11 +25,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-<<<<<<< HEAD
+
       home: HomePage(),
-=======
-      home: PuffCount(),
->>>>>>> 87a2a495220e17bbbff3abbcebd26015d6d8bdff
+
+      
+
       
        //---------------------------
   theme: ThemeData(
