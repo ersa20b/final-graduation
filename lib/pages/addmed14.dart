@@ -20,6 +20,8 @@ class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
   }
 
 
+
+// Increment button on the right
   void _increment() {
     setState(() {
       _blisterCount++;
@@ -27,6 +29,8 @@ class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
     });
   }
 
+
+// Decrement button on the left
   void _decrement() {
     setState(() {
       if (_blisterCount > 0) _blisterCount--;
@@ -34,33 +38,30 @@ class _BlisterCounterScreenState extends State<BlisterCounterScreen> {
     });
   }
 
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: ThemeData.light().colorScheme.onSurface,
       body: Base2(
-        child: Column(
-          children: [
-         
-         
-     
+      child: Column(
+      children: [   
+                      Align(
+                     alignment: Alignment.centerLeft,
+                     child: Padding(
+                           padding: const EdgeInsets.only(left: 60, top:80), 
+                           child: const Text( 
+                                        'Number of blisters:',
+                                        style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
+                                               ),
+                                     ),
+                            ),
 
-        
-Align(
-  alignment: Alignment.centerLeft,
-  child: Padding(
-    padding: const EdgeInsets.only(left: 60, top:80), 
-    child: const Text(
-      'Number of blisters:',
-      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
-    ),
-  ),
-),
+      const SizedBox(height: 10), 
 
-            const SizedBox(height: 10),
-
-            // Counter Row
-            Padding(
+      // Pill counter row elements
+       Padding(
              padding: const EdgeInsets.only(left: 40), 
               child: Row(
               
@@ -84,7 +85,12 @@ Align(
                 ],
               ),
             ),
+
+
+            // adding space between the increase/decrease container buttons and the next button
             const SizedBox(height: 30),
+
+
 
             // Next Button
             SizedBox(
@@ -109,6 +115,9 @@ Align(
       ),
     );
   }
+
+
+
 
   Widget _counterButton(String text, VoidCallback onPressed) {
     return GestureDetector(

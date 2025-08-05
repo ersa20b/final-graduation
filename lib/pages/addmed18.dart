@@ -5,10 +5,10 @@ class DropperVolume extends StatefulWidget {
   const DropperVolume({Key? key}) : super(key: key);
 
   @override
-  State<DropperVolume> createState() => _InjectionVolumeState();
+  State<DropperVolume> createState() => _DropperVolumeState();
 }
 
-class _InjectionVolumeState extends State<DropperVolume> {
+class _DropperVolumeState extends State<DropperVolume> {
   // for the text input field 
   final TextEditingController _volumeController = TextEditingController(text: "00");
 

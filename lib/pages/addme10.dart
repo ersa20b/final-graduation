@@ -16,7 +16,7 @@ class _BlisterCounterScreenState extends State<PillCounterScreen> {
 
 
 
-
+// Increment button on the right
   void _increment() {
     setState(() {
       _pillCount++;
@@ -24,6 +24,10 @@ class _BlisterCounterScreenState extends State<PillCounterScreen> {
     });
   }
 
+
+
+
+// Decrement button on the left
   void _decrement() {
     setState(() {
       if (_pillCount > 0) _pillCount--;
@@ -38,25 +42,22 @@ class _BlisterCounterScreenState extends State<PillCounterScreen> {
       body: Base2(
         child: Column(
           children: [
-         
-         
-     
+                      Align(
+                      alignment: Alignment.centerLeft,
+                     child: Padding(
+                            padding: const EdgeInsets.only(left: 40, top:80), 
+                            child: const Text(
+                                               'Number of pills in a blister:',
+                                               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
+                                               ),
+                                     ),
+                            ),
 
-        
-Align(
-  alignment: Alignment.centerLeft,
-  child: Padding(
-    padding: const EdgeInsets.only(left: 40, top:80), 
-    child: const Text(
-      'Number of pills in a blister:',
-      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
-    ),
-  ),
-),
 
-            const SizedBox(height: 10),
+          const SizedBox(height: 10),
 
-            // Counter Row
+
+           // Blister counter row elements
             Padding(
                padding: const EdgeInsets.only(left: 40), 
               child: Row(
@@ -81,11 +82,15 @@ Align(
                 ],
               ),
             ),
+
+
+
+           // adding space between the increase/decrease cpntainer buttons and the next button
             const SizedBox(height: 30),
 
+
+
             // Next Button
-          
-          
           SizedBox(
                 width: 320,
                 height: 50,

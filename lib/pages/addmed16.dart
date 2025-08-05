@@ -1,21 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:graduation_med_/util/base3donia.dart';
 
-class InjectionVolume extends StatefulWidget {
-  const InjectionVolume({Key? key}) : super(key: key);
+class PufferVolume extends StatefulWidget {
+  const PufferVolume({Key? key}) : super(key: key);
 
   @override
-  State<InjectionVolume> createState() => _InjectionVolumeState();
+  State<PufferVolume> createState() => _PufferVolumeState();
 }
 
-class _InjectionVolumeState extends State<InjectionVolume> {
-
-
-  // This variable of type "TextEditingController" is for the text input field to hold the data that will be entered by the user.
+class _PufferVolumeState extends State<PufferVolume> {
+  // for the text input field 
   final TextEditingController _volumeController = TextEditingController(text: "00");
-
-
-
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +22,7 @@ class _InjectionVolumeState extends State<InjectionVolume> {
             children: [
               const SizedBox(height: 80),
               const Text(
-                'Volume of injection medication bottle:',
+                'Volume of inhaler medication dosage:',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
                 textAlign: TextAlign.center,
               ),
@@ -37,20 +32,15 @@ class _InjectionVolumeState extends State<InjectionVolume> {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 40),
                 child: Image.asset(
-                  'assets/images/brownbottle.PNG', 
+                  'assets/images/puffer.PNG', 
                   height: 220,
                   fit: BoxFit.contain,
                 ),
               ),
 
-
-           
-            // Space between the image and volume container button
               const SizedBox(height: 30),
 
             
-
-             // enter volume row elements
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -63,17 +53,11 @@ class _InjectionVolumeState extends State<InjectionVolume> {
                       border: Border.all(color: Colors.grey.shade400),
                       borderRadius: BorderRadius.circular(12),
                     ),
-                    
                     child: TextField(
-                      //1
                       // to be able to write in the input field in a certin way 
                       controller: _volumeController,
-                      //2
-                      // to hold data entered by the user
                       keyboardType: TextInputType.number,
-                      //3
                       textAlign: TextAlign.center,
-                      //4
                       decoration: const InputDecoration(
                         border: InputBorder.none,
                       ),
@@ -81,20 +65,10 @@ class _InjectionVolumeState extends State<InjectionVolume> {
                     ),
                   ),
 
-
-                 //  horizontalspace between the input field and the unit text
                   const SizedBox(width: 10),
+                  const Text("Actuations Puffs", style: TextStyle(fontSize: 16)),
 
-
-
-                  const Text("ml", style: TextStyle(fontSize: 16)),
-
-
-
-                  // vertical space between the input field and the add button
                   const SizedBox(width: 20),
-
-
 
                   // Add button
                   SizedBox(
