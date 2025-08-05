@@ -1,24 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_med_/pages/addme10.dart';
-import 'package:graduation_med_/pages/addmed14.dart';
-import 'package:graduation_med_/pages/addmed13.dart';
-import 'package:graduation_med_/pages/addmed18.dart';
-import 'package:graduation_med_/pages/addmed19.dart';
-import 'package:graduation_med_/pages/addmed12.dart';
-import 'package:graduation_med_/pages/addmed15.dart';
-import 'package:graduation_med_/pages/addmed9.dart';
-import 'package:graduation_med_/pages/on_boarding_screen.dart';
+import 'package:graduation_med_/pages/home_page.dart';
+import 'package:graduation_med_/pages/treatment_phases.dart';
+import 'package:graduation_med_/providers/auth_provider.dart';
+import 'package:provider/provider.dart';
 
-
-import 'pages/home_page.dart';
-
-
-
-
-void main(){
-   print('App Started');
-  runApp(MyApp());
+void main() {
+  runApp(
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => AuthProvider()),
+      ],
+      child: const MyApp(),
+    ),
+  );
 }
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -26,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LiquidDose(),
+      home: HomePage(),
       
        //---------------------------
   theme: ThemeData(
@@ -44,10 +40,20 @@ class MyApp extends StatelessWidget {
   ),
 ),
 //------------------------
- //initialRoute: '/',
+/* initialRoute: '/',
       routes: {
-       '/main': (context) => const HomePage(), 
-      }
+         '/': (context) => OnBoardingScreen(),
+          '/secondsplash': (context) => SecondScreen(),
+           '/thirdsplash': (context) =>ThirdScreen(),
+         '/login':(context)=>const SigninPage(),
+        '/signup':(context)=>const SignupPage(),
+         '/main': (context) => const HomePage(), 
+         '/setting1':(context)=>const Setting1(),
+         '/setting2':(context)=>const Setting2(),
+
+
+
+      }*/
         );
         
       
