@@ -1,16 +1,28 @@
 import 'package:flutter/material.dart';
 
 class AuthProvider with ChangeNotifier {
+  // ================== الحقول الخاصة بالمستخدم ==================
   String _email = '';
   String _password = '';
+  String _name = '';
+  String _gender = '';
+  String _diagnosis = '';
+  String _phone = '';
+  DateTime? _birthDate;
+
   bool _isLoading = false;
 
-  // getters
+  // ================== Getters ==================
   String get email => _email;
   String get password => _password;
+  String get name => _name;
+  String get gender => _gender;
+  String get diagnosis => _diagnosis;
+  String get phone => _phone;
+  DateTime? get birthDate => _birthDate;
   bool get isLoading => _isLoading;
 
-  // setters مع notifyListeners
+  // ================== Setters ==================
   void setEmail(String email) {
     _email = email;
     notifyListeners();
@@ -21,21 +33,46 @@ class AuthProvider with ChangeNotifier {
     notifyListeners();
   }
 
+  void setName(String name) {
+    _name = name;
+    notifyListeners();
+  }
+
+  void setGender(String gender) {
+    _gender = gender;
+    notifyListeners();
+  }
+
+  void setDiagnosis(String diagnosis) {
+    _diagnosis = diagnosis;
+    notifyListeners();
+  }
+
+  void setPhone(String value) {
+    _phone = value;
+    notifyListeners();
+  }
+
+  void setBirthDate(DateTime date) {
+    _birthDate = date;
+    notifyListeners();
+  }
+
   void setLoading(bool loading) {
     _isLoading = loading;
     notifyListeners();
   }
 
-  // دالة وهمية لمحاكاة تسجيل الدخول
-  Future<bool> login() async {
-    setLoading(true);
-    await Future.delayed(const Duration(seconds: 2)); // تحاكي تحميل الشبكة
-    setLoading(false);
+  // ================== المستخدم الحالي ==================
+  String? _currentUserEmail;
+  String? _currentUserPassword;
 
-    // نقدر نتحقق هنا من صحة البيانات، مثلاً:
-    if (_email == "test@example.com" && _password == "123456") {
-      return true;
-    }
-    return false;
+  void setCurrentUser() {
+    _currentUserEmail = _email;
+    _currentUserPassword = _password;
+    notifyListeners();
   }
+
+  String? get currentUserEmail => _currentUserEmail;
+  String? get currentUserPassword => _currentUserPassword;
 }

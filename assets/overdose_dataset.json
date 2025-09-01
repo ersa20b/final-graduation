@@ -1,0 +1,1061 @@
+[  { "scientificName": "Paracetamol", "brandName": "Panadol", "ageRange": "0-5", "maxPerDose_mg": 120, "maxDosesPerDay": 4 },
+  { "scientificName": "Paracetamol", "brandName": "Panadol", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 4 },
+  { "scientificName": "Paracetamol", "brandName": "Panadol", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Ibuprofen", "brandName": "Brufen", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 3 },
+  { "scientificName": "Ibuprofen", "brandName": "Brufen", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 4 },
+  { "scientificName": "Ibuprofen", "brandName": "Brufen", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Aspirin", "brandName": "Disprin", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+  { "scientificName": "Aspirin", "brandName": "Disprin", "ageRange": "6-12", "maxPerDose_mg": 150, "maxDosesPerDay": 3 },
+  { "scientificName": "Aspirin", "brandName": "Disprin", "ageRange": "13-100", "maxPerDose_mg": 300, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Metformin", "brandName": "Glucophage", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Metformin", "brandName": "Glucophage", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Metformin", "brandName": "Glucophage", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Amoxicillin", "brandName": "Augmentin", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 3 },
+  { "scientificName": "Amoxicillin", "brandName": "Augmentin", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 3 },
+  { "scientificName": "Amoxicillin", "brandName": "Augmentin", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Clarithromycin", "brandName": "Klacid", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 2 },
+  { "scientificName": "Clarithromycin", "brandName": "Klacid", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Clarithromycin", "brandName": "Klacid", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Azithromycin", "brandName": "Zithromax", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Azithromycin", "brandName": "Zithromax", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+  { "scientificName": "Azithromycin", "brandName": "Zithromax", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Ciprofloxacin", "brandName": "Ciproxin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Ciprofloxacin", "brandName": "Ciproxin", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Ciprofloxacin", "brandName": "Ciproxin", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Doxycycline", "brandName": "Vibramycin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Doxycycline", "brandName": "Vibramycin", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Doxycycline", "brandName": "Vibramycin", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Lisinopril", "brandName": "Zestril", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Lisinopril", "brandName": "Zestril", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Lisinopril", "brandName": "Zestril", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Amlodipine", "brandName": "Norvasc", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Amlodipine", "brandName": "Norvasc", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Amlodipine", "brandName": "Norvasc", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Losartan", "brandName": "Cozaar", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Losartan", "brandName": "Cozaar", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Losartan", "brandName": "Cozaar", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Atorvastatin", "brandName": "Lipitor", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Atorvastatin", "brandName": "Lipitor", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Atorvastatin", "brandName": "Lipitor", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Simvastatin", "brandName": "Zocor", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Simvastatin", "brandName": "Zocor", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Simvastatin", "brandName": "Zocor", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Levothyroxine", "brandName": "Eltroxin", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Levothyroxine", "brandName": "Eltroxin", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Levothyroxine", "brandName": "Eltroxin", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Omeprazole", "brandName": "Losec", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Omeprazole", "brandName": "Losec", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Omeprazole", "brandName": "Losec", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Esomeprazole", "brandName": "Nexium", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Esomeprazole", "brandName": "Nexium", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Esomeprazole", "brandName": "Nexium", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Pantoprazole", "brandName": "Controloc", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Pantoprazole", "brandName": "Controloc", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Pantoprazole", "brandName": "Controloc", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Ranitidine", "brandName": "Zantac", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Ranitidine", "brandName": "Zantac", "ageRange": "6-12", "maxPerDose_mg": 75, "maxDosesPerDay": 2 },
+  { "scientificName": "Ranitidine", "brandName": "Zantac", "ageRange": "13-100", "maxPerDose_mg": 150, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Famotidine", "brandName": "Pepcid", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Famotidine", "brandName": "Pepcid", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 2 },
+  { "scientificName": "Famotidine", "brandName": "Pepcid", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Gliclazide", "brandName": "Diamicron", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Gliclazide", "brandName": "Diamicron", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Gliclazide", "brandName": "Diamicron", "ageRange": "13-100", "maxPerDose_mg": 80, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Glibenclamide", "brandName": "Daonil", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Glibenclamide", "brandName": "Daonil", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Glibenclamide", "brandName": "Daonil", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Sitagliptin", "brandName": "Januvia", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Sitagliptin", "brandName": "Januvia", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Sitagliptin", "brandName": "Januvia", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Linagliptin", "brandName": "Trajenta", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Linagliptin", "brandName": "Trajenta", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Linagliptin", "brandName": "Trajenta", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Canagliflozin", "brandName": "Invokana", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Canagliflozin", "brandName": "Invokana", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Canagliflozin", "brandName": "Invokana", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Dapagliflozin", "brandName": "Forxiga", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Dapagliflozin", "brandName": "Forxiga", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Dapagliflozin", "brandName": "Forxiga", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+
+  { "scientificName": "Empagliflozin", "brandName": "Jardiance", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Empagliflozin", "brandName": "Jardiance", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Empagliflozin", "brandName": "Jardiance", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Furosemide", "brandName": "Lasix", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Furosemide", "brandName": "Lasix", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 2 },
+  { "scientificName": "Furosemide", "brandName": "Lasix", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Hydrochlorothiazide", "brandName": "Esidrex", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Hydrochlorothiazide", "brandName": "Esidrex", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Hydrochlorothiazide", "brandName": "Esidrex", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Spironolactone", "brandName": "Aldactone", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Spironolactone", "brandName": "Aldactone", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Spironolactone", "brandName": "Aldactone", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Amiodarone", "brandName": "Cordarone", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Amiodarone", "brandName": "Cordarone", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Amiodarone", "brandName": "Cordarone", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Digoxin", "brandName": "Lanoxin", "ageRange": "0-5", "maxPerDose_mg": 0.05, "maxDosesPerDay": 1 },
+  { "scientificName": "Digoxin", "brandName": "Lanoxin", "ageRange": "6-12", "maxPerDose_mg": 0.125, "maxDosesPerDay": 1 },
+  { "scientificName": "Digoxin", "brandName": "Lanoxin", "ageRange": "13-100", "maxPerDose_mg": 0.25, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Warfarin", "brandName": "Coumadin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Warfarin", "brandName": "Coumadin", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 1 },
+  { "scientificName": "Warfarin", "brandName": "Coumadin", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Clopidogrel", "brandName": "Plavix", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Clopidogrel", "brandName": "Plavix", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Clopidogrel", "brandName": "Plavix", "ageRange": "13-100", "maxPerDose_mg": 75, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Ticagrelor", "brandName": "Brilinta", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Ticagrelor", "brandName": "Brilinta", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Ticagrelor", "brandName": "Brilinta", "ageRange": "13-100", "maxPerDose_mg": 90, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Prasugrel", "brandName": "Effient", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Prasugrel", "brandName": "Effient", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Prasugrel", "brandName": "Effient", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Atenolol", "brandName": "Tenormin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Atenolol", "brandName": "Tenormin", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Atenolol", "brandName": "Tenormin", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Propranolol", "brandName": "Inderal", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Propranolol", "brandName": "Inderal", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Propranolol", "brandName": "Inderal", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Metoprolol", "brandName": "Lopressor", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Metoprolol", "brandName": "Lopressor", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Metoprolol", "brandName": "Lopressor", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Carvedilol", "brandName": "Dilatrend", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Carvedilol", "brandName": "Dilatrend", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Carvedilol", "brandName": "Dilatrend", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Bisoprolol", "brandName": "Concor", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Bisoprolol", "brandName": "Concor", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Bisoprolol", "brandName": "Concor", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Morphine", "brandName": "MS Contin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Morphine", "brandName": "MS Contin", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Morphine", "brandName": "MS Contin", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 6 },
+
+  { "scientificName": "Codeine", "brandName": "Codipar", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Codeine", "brandName": "Codipar", "ageRange": "6-12", "maxPerDose_mg": 15, "maxDosesPerDay": 4 },
+  { "scientificName": "Codeine", "brandName": "Codipar", "ageRange": "13-100", "maxPerDose_mg": 30, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Tramadol", "brandName": "Tramal", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Tramadol", "brandName": "Tramal", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Tramadol", "brandName": "Tramal", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Oxycodone", "brandName": "OxyContin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Oxycodone", "brandName": "OxyContin", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Oxycodone", "brandName": "OxyContin", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Fentanyl", "brandName": "Duragesic", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Fentanyl", "brandName": "Duragesic", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Fentanyl", "brandName": "Duragesic", "ageRange": "13-100", "maxPerDose_mg": 0.1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Sertraline", "brandName": "Zoloft", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Sertraline", "brandName": "Zoloft", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Sertraline", "brandName": "Zoloft", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Fluoxetine", "brandName": "Prozac", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Fluoxetine", "brandName": "Prozac", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Fluoxetine", "brandName": "Prozac", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Citalopram", "brandName": "Celexa", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Citalopram", "brandName": "Celexa", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Citalopram", "brandName": "Celexa", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Escitalopram", "brandName": "Lexapro", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Escitalopram", "brandName": "Lexapro", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Escitalopram", "brandName": "Lexapro", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Venlafaxine", "brandName": "Effexor", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Venlafaxine", "brandName": "Effexor", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Venlafaxine", "brandName": "Effexor", "ageRange": "13-100", "maxPerDose_mg": 75, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Duloxetine", "brandName": "Cymbalta", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Duloxetine", "brandName": "Cymbalta", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Duloxetine", "brandName": "Cymbalta", "ageRange": "13-100", "maxPerDose_mg": 30, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Mirtazapine", "brandName": "Remeron", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Mirtazapine", "brandName": "Remeron", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Mirtazapine", "brandName": "Remeron", "ageRange": "13-100", "maxPerDose_mg": 15, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Amitriptyline", "brandName": "Elavil", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Amitriptyline", "brandName": "Elavil", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Amitriptyline", "brandName": "Elavil", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Nortriptyline", "brandName": "Pamelor", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Nortriptyline", "brandName": "Pamelor", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Nortriptyline", "brandName": "Pamelor", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Haloperidol", "brandName": "Haldol", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Haloperidol", "brandName": "Haldol", "ageRange": "6-12", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Haloperidol", "brandName": "Haldol", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Risperidone", "brandName": "Risperdal", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Risperidone", "brandName": "Risperdal", "ageRange": "6-12", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Risperidone", "brandName": "Risperdal", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Olanzapine", "brandName": "Zyprexa", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Olanzapine", "brandName": "Zyprexa", "ageRange": "6-12", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Olanzapine", "brandName": "Zyprexa", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Quetiapine", "brandName": "Seroquel", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Quetiapine", "brandName": "Seroquel", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Quetiapine", "brandName": "Seroquel", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Aripiprazole", "brandName": "Abilify", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Aripiprazole", "brandName": "Abilify", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 1 },
+  { "scientificName": "Aripiprazole", "brandName": "Abilify", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Sodium Valproate", "brandName": "Depakine", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Sodium Valproate", "brandName": "Depakine", "ageRange": "6-12", "maxPerDose_mg": 15, "maxDosesPerDay": 2 },
+  { "scientificName": "Sodium Valproate", "brandName": "Depakine", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Carbamazepine", "brandName": "Tegretol", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Carbamazepine", "brandName": "Tegretol", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 2 },
+  { "scientificName": "Carbamazepine", "brandName": "Tegretol", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Lamotrigine", "brandName": "Lamictal", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Lamotrigine", "brandName": "Lamictal", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Lamotrigine", "brandName": "Lamictal", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Levetiracetam", "brandName": "Keppra", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Levetiracetam", "brandName": "Keppra", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Levetiracetam", "brandName": "Keppra", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Topiramate", "brandName": "Topamax", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Topiramate", "brandName": "Topamax", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Topiramate", "brandName": "Topamax", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Phenytoin", "brandName": "Dilantin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Phenytoin", "brandName": "Dilantin", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Phenytoin", "brandName": "Dilantin", "ageRange": "13-100", "maxPerDose_mg": 300, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Phenobarbital", "brandName": "Luminal", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Phenobarbital", "brandName": "Luminal", "ageRange": "6-12", "maxPerDose_mg": 30, "maxDosesPerDay": 2 },
+  { "scientificName": "Phenobarbital", "brandName": "Luminal", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Midazolam", "brandName": "Dormicum", "ageRange": "0-5", "maxPerDose_mg": 0.25, "maxDosesPerDay": 2 },
+  { "scientificName": "Midazolam", "brandName": "Dormicum", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Midazolam", "brandName": "Dormicum", "ageRange": "13-100", "maxPerDose_mg": 15, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Diazepam", "brandName": "Valium", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Diazepam", "brandName": "Valium", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+  { "scientificName": "Diazepam", "brandName": "Valium", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Lorazepam", "brandName": "Ativan", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Lorazepam", "brandName": "Ativan", "ageRange": "6-12", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Lorazepam", "brandName": "Ativan", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Clonazepam", "brandName": "Rivotril", "ageRange": "0-5", "maxPerDose_mg": 0.25, "maxDosesPerDay": 2 },
+  { "scientificName": "Clonazepam", "brandName": "Rivotril", "ageRange": "6-12", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Clonazepam", "brandName": "Rivotril", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Vitamin C", "brandName": "C-Retard", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin C", "brandName": "C-Retard", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Vitamin C", "brandName": "C-Retard", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Vitamin D3", "brandName": "Calcichew D3", "ageRange": "0-5", "maxPerDose_mg": 400, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin D3", "brandName": "Calcichew D3", "ageRange": "6-12", "maxPerDose_mg": 800, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin D3", "brandName": "Calcichew D3", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin A", "brandName": "A-Ret", "ageRange": "0-5", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin A", "brandName": "A-Ret", "ageRange": "6-12", "maxPerDose_mg": 2000, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin A", "brandName": "A-Ret", "ageRange": "13-100", "maxPerDose_mg": 5000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin E", "brandName": "E-Viton", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin E", "brandName": "E-Viton", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin E", "brandName": "E-Viton", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin K", "brandName": "K-Vit", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin K", "brandName": "K-Vit", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin K", "brandName": "K-Vit", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin B1", "brandName": "Benerva", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B1", "brandName": "Benerva", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B1", "brandName": "Benerva", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin B6", "brandName": "Pyridoxine", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B6", "brandName": "Pyridoxine", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B6", "brandName": "Pyridoxine", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin B12", "brandName": "Neurobion", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B12", "brandName": "Neurobion", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B12", "brandName": "Neurobion", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Folic Acid", "brandName": "Folvite", "ageRange": "0-5", "maxPerDose_mg": 0.1, "maxDosesPerDay": 1 },
+  { "scientificName": "Folic Acid", "brandName": "Folvite", "ageRange": "6-12", "maxPerDose_mg": 0.2, "maxDosesPerDay": 1 },
+  { "scientificName": "Folic Acid", "brandName": "Folvite", "ageRange": "13-100", "maxPerDose_mg": 0.4, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Calcium Carbonate", "brandName": "Caltrate", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Calcium Carbonate", "brandName": "Caltrate", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "Calcium Carbonate", "brandName": "Caltrate", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Magnesium Oxide", "brandName": "Mag-Ox", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Magnesium Oxide", "brandName": "Mag-Ox", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Magnesium Oxide", "brandName": "Mag-Ox", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Zinc Sulfate", "brandName": "Zincomed", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Zinc Sulfate", "brandName": "Zincomed", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Zinc Sulfate", "brandName": "Zincomed", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Iron (Ferrous Sulfate)", "brandName": "Ferosan", "ageRange": "0-5", "maxPerDose_mg": 15, "maxDosesPerDay": 1 },
+  { "scientificName": "Iron (Ferrous Sulfate)", "brandName": "Ferosan", "ageRange": "6-12", "maxPerDose_mg": 30, "maxDosesPerDay": 1 },
+  { "scientificName": "Iron (Ferrous Sulfate)", "brandName": "Ferosan", "ageRange": "13-100", "maxPerDose_mg": 65, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Omega-3 Fish Oil", "brandName": "Seven Seas", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Omega-3 Fish Oil", "brandName": "Seven Seas", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "Omega-3 Fish Oil", "brandName": "Seven Seas", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Selenium", "brandName": "Selace", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Selenium", "brandName": "Selace", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Selenium", "brandName": "Selace", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Biotin", "brandName": "Biotina", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Biotin", "brandName": "Biotina", "ageRange": "6-12", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Biotin", "brandName": "Biotina", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Probiotics", "brandName": "Probac", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Probiotics", "brandName": "Probac", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Probiotics", "brandName": "Probac", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Calcium + Vitamin D", "brandName": "Osteocare", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Calcium + Vitamin D", "brandName": "Osteocare", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "Calcium + Vitamin D", "brandName": "Osteocare", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Chromium Picolinate", "brandName": "Chromax", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Chromium Picolinate", "brandName": "Chromax", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Chromium Picolinate", "brandName": "Chromax", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Coenzyme Q10", "brandName": "Qunol", "ageRange": "0-5", "maxPerDose_mg": 30, "maxDosesPerDay": 1 },
+  { "scientificName": "Coenzyme Q10", "brandName": "Qunol", "ageRange": "6-12", "maxPerDose_mg": 60, "maxDosesPerDay": 1 },
+  { "scientificName": "Coenzyme Q10", "brandName": "Qunol", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Glucosamine Sulfate", "brandName": "Dona", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Glucosamine Sulfate", "brandName": "Dona", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Glucosamine Sulfate", "brandName": "Dona", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Chondroitin Sulfate", "brandName": "Structurol", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Chondroitin Sulfate", "brandName": "Structurol", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Chondroitin Sulfate", "brandName": "Structurol", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "L-Carnitine", "brandName": "Carnitene", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "L-Carnitine", "brandName": "Carnitene", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "L-Carnitine", "brandName": "Carnitene", "ageRange": "13-100", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+
+  { "scientificName": "L-Arginine", "brandName": "Argivit", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "L-Arginine", "brandName": "Argivit", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "L-Arginine", "brandName": "Argivit", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Ginseng", "brandName": "Ginsana", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Ginseng", "brandName": "Ginsana", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Ginseng", "brandName": "Ginsana", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Ginkgo Biloba", "brandName": "Tebonin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Ginkgo Biloba", "brandName": "Tebonin", "ageRange": "6-12", "maxPerDose_mg": 30, "maxDosesPerDay": 1 },
+  { "scientificName": "Ginkgo Biloba", "brandName": "Tebonin", "ageRange": "13-100", "maxPerDose_mg": 60, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Milk Thistle", "brandName": "Legalon", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Milk Thistle", "brandName": "Legalon", "ageRange": "6-12", "maxPerDose_mg": 70, "maxDosesPerDay": 1 },
+  { "scientificName": "Milk Thistle", "brandName": "Legalon", "ageRange": "13-100", "maxPerDose_mg": 140, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Aloe Vera Extract", "brandName": "AloeCap", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Aloe Vera Extract", "brandName": "AloeCap", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Aloe Vera Extract", "brandName": "AloeCap", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Evening Primrose Oil", "brandName": "Efamol", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Evening Primrose Oil", "brandName": "Efamol", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Evening Primrose Oil", "brandName": "Efamol", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Saw Palmetto", "brandName": "Permixon", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Saw Palmetto", "brandName": "Permixon", "ageRange": "6-12", "maxPerDose_mg": 160, "maxDosesPerDay": 1 },
+  { "scientificName": "Saw Palmetto", "brandName": "Permixon", "ageRange": "13-100", "maxPerDose_mg": 320, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Soy Isoflavones", "brandName": "Estroven", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Soy Isoflavones", "brandName": "Estroven", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Soy Isoflavones", "brandName": "Estroven", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Alpha Lipoic Acid", "brandName": "Thioctic Acid", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Alpha Lipoic Acid", "brandName": "Thioctic Acid", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Alpha Lipoic Acid", "brandName": "Thioctic Acid", "ageRange": "13-100", "maxPerDose_mg": 300, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Beta-Carotene", "brandName": "Solatene", "ageRange": "0-5", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+  { "scientificName": "Beta-Carotene", "brandName": "Solatene", "ageRange": "6-12", "maxPerDose_mg": 2500, "maxDosesPerDay": 1 },
+  { "scientificName": "Beta-Carotene", "brandName": "Solatene", "ageRange": "13-100", "maxPerDose_mg": 5000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin B Complex", "brandName": "Neurobion Forte", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Vitamin B Complex", "brandName": "Neurobion Forte", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B Complex", "brandName": "Neurobion Forte", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Collagen + Vitamin C", "brandName": "Colnatur", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Collagen + Vitamin C", "brandName": "Colnatur", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "Collagen + Vitamin C", "brandName": "Colnatur", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Hydrocortisone", "brandName": "Cortef Cream", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Hydrocortisone", "brandName": "Cortef Cream", "ageRange": "6-12", "maxPerDose_mg": 2.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Hydrocortisone", "brandName": "Cortef Cream", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Clotrimazole", "brandName": "Canesten", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Clotrimazole", "brandName": "Canesten", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Clotrimazole", "brandName": "Canesten", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Miconazole", "brandName": "Daktarin", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Miconazole", "brandName": "Daktarin", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Miconazole", "brandName": "Daktarin", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Ketoconazole", "brandName": "Nizoral Cream", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Ketoconazole", "brandName": "Nizoral Cream", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Ketoconazole", "brandName": "Nizoral Cream", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Terbinafine", "brandName": "Lamisil", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Terbinafine", "brandName": "Lamisil", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Terbinafine", "brandName": "Lamisil", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Neomycin + Bacitracin", "brandName": "Neosporin", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 3 },
+  { "scientificName": "Neomycin + Bacitracin", "brandName": "Neosporin", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Neomycin + Bacitracin", "brandName": "Neosporin", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Silver Sulfadiazine", "brandName": "Flamazine", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Silver Sulfadiazine", "brandName": "Flamazine", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 1 },
+  { "scientificName": "Silver Sulfadiazine", "brandName": "Flamazine", "ageRange": "13-100", "maxPerDose_mg": 3, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Calamine", "brandName": "Caladryl", "ageRange": "0-5", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Calamine", "brandName": "Caladryl", "ageRange": "6-12", "maxPerDose_mg": 3, "maxDosesPerDay": 3 },
+  { "scientificName": "Calamine", "brandName": "Caladryl", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Benzoyl Peroxide", "brandName": "PanOxyl", "ageRange": "0-5", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Benzoyl Peroxide", "brandName": "PanOxyl", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Benzoyl Peroxide", "brandName": "PanOxyl", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Adapalene", "brandName": "Differin", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Adapalene", "brandName": "Differin", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Adapalene", "brandName": "Differin", "ageRange": "13-100", "maxPerDose_mg": 0.1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Tretinoin", "brandName": "Retin-A", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Tretinoin", "brandName": "Retin-A", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Tretinoin", "brandName": "Retin-A", "ageRange": "13-100", "maxPerDose_mg": 0.05, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Isotretinoin", "brandName": "Accutane Gel", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Isotretinoin", "brandName": "Accutane Gel", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Isotretinoin", "brandName": "Accutane Gel", "ageRange": "13-100", "maxPerDose_mg": 0.1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Tacrolimus", "brandName": "Protopic", "ageRange": "0-5", "maxPerDose_mg": 0.03, "maxDosesPerDay": 2 },
+  { "scientificName": "Tacrolimus", "brandName": "Protopic", "ageRange": "6-12", "maxPerDose_mg": 0.03, "maxDosesPerDay": 2 },
+  { "scientificName": "Tacrolimus", "brandName": "Protopic", "ageRange": "13-100", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Pimecrolimus", "brandName": "Elidel", "ageRange": "0-5", "maxPerDose_mg": 0.03, "maxDosesPerDay": 2 },
+  { "scientificName": "Pimecrolimus", "brandName": "Elidel", "ageRange": "6-12", "maxPerDose_mg": 0.03, "maxDosesPerDay": 2 },
+  { "scientificName": "Pimecrolimus", "brandName": "Elidel", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Metronidazole", "brandName": "Rozex", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Metronidazole", "brandName": "Rozex", "ageRange": "6-12", "maxPerDose_mg": 0.75, "maxDosesPerDay": 2 },
+  { "scientificName": "Metronidazole", "brandName": "Rozex", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Clindamycin", "brandName": "Dalacin T", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Clindamycin", "brandName": "Dalacin T", "ageRange": "6-12", "maxPerDose_mg": 0.75, "maxDosesPerDay": 2 },
+  { "scientificName": "Clindamycin", "brandName": "Dalacin T", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Erythromycin", "brandName": "Eryacne", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Erythromycin", "brandName": "Eryacne", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+  { "scientificName": "Erythromycin", "brandName": "Eryacne", "ageRange": "13-100", "maxPerDose_mg": 4, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Fusidic Acid", "brandName": "Fucicort", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 3 },
+  { "scientificName": "Fusidic Acid", "brandName": "Fucicort", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Fusidic Acid", "brandName": "Fucicort", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Mupirocin", "brandName": "Bactroban", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 3 },
+  { "scientificName": "Mupirocin", "brandName": "Bactroban", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Mupirocin", "brandName": "Bactroban", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Salicylic Acid", "brandName": "Compound W", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Salicylic Acid", "brandName": "Compound W", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Salicylic Acid", "brandName": "Compound W", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Coal Tar", "brandName": "Exorex", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Coal Tar", "brandName": "Exorex", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Coal Tar", "brandName": "Exorex", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Capsaicin", "brandName": "Zostrix", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Capsaicin", "brandName": "Zostrix", "ageRange": "6-12", "maxPerDose_mg": 0.025, "maxDosesPerDay": 2 },
+  { "scientificName": "Capsaicin", "brandName": "Zostrix", "ageRange": "13-100", "maxPerDose_mg": 0.075, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Urea", "brandName": "Carmol", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Urea", "brandName": "Carmol", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Urea", "brandName": "Carmol", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Aloe Vera Gel", "brandName": "AloeDerm", "ageRange": "0-5", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Aloe Vera Gel", "brandName": "AloeDerm", "ageRange": "6-12", "maxPerDose_mg": 3, "maxDosesPerDay": 3 },
+  { "scientificName": "Aloe Vera Gel", "brandName": "AloeDerm", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Zinc Oxide", "brandName": "Desitin", "ageRange": "0-5", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Zinc Oxide", "brandName": "Desitin", "ageRange": "6-12", "maxPerDose_mg": 3, "maxDosesPerDay": 3 },
+  { "scientificName": "Zinc Oxide", "brandName": "Desitin", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Lanolin", "brandName": "Lansinoh", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Lanolin", "brandName": "Lansinoh", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Lanolin", "brandName": "Lansinoh", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Petrolatum", "brandName": "Vaseline", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Petrolatum", "brandName": "Vaseline", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Petrolatum", "brandName": "Vaseline", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Dimethicone", "brandName": "Cetaphil Moisturizing Cream", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Dimethicone", "brandName": "Cetaphil Moisturizing Cream", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+  { "scientificName": "Dimethicone", "brandName": "Cetaphil Moisturizing Cream", "ageRange": "13-100", "maxPerDose_mg": 4, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Ceramides", "brandName": "CeraVe Cream", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Ceramides", "brandName": "CeraVe Cream", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+  { "scientificName": "Ceramides", "brandName": "CeraVe Cream", "ageRange": "13-100", "maxPerDose_mg": 4, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Shea Butter", "brandName": "L'Occitane Shea Cream", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Shea Butter", "brandName": "L'Occitane Shea Cream", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+  { "scientificName": "Shea Butter", "brandName": "L'Occitane Shea Cream", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Retinol", "brandName": "RoC Retinol", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Retinol", "brandName": "RoC Retinol", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Retinol", "brandName": "RoC Retinol", "ageRange": "13-100", "maxPerDose_mg": 0.5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Niacinamide", "brandName": "The Ordinary Niacinamide", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Niacinamide", "brandName": "The Ordinary Niacinamide", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Niacinamide", "brandName": "The Ordinary Niacinamide", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Hyaluronic Acid", "brandName": "Neutrogena Hydro Boost", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Hyaluronic Acid", "brandName": "Neutrogena Hydro Boost", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Hyaluronic Acid", "brandName": "Neutrogena Hydro Boost", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Azelaic Acid", "brandName": "Finacea", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Azelaic Acid", "brandName": "Finacea", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Azelaic Acid", "brandName": "Finacea", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Boric Acid", "brandName": "Borax Cream", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Boric Acid", "brandName": "Borax Cream", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Boric Acid", "brandName": "Borax Cream", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Clindamycin + Benzoyl Peroxide", "brandName": "Duac Gel", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Clindamycin + Benzoyl Peroxide", "brandName": "Duac Gel", "ageRange": "6-12", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Clindamycin + Benzoyl Peroxide", "brandName": "Duac Gel", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Sulfur", "brandName": "De La Cruz Sulfur Ointment", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Sulfur", "brandName": "De La Cruz Sulfur Ointment", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 1 },
+  { "scientificName": "Sulfur", "brandName": "De La Cruz Sulfur Ointment", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Triamcinolone", "brandName": "Kenalog Cream", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Triamcinolone", "brandName": "Kenalog Cream", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Triamcinolone", "brandName": "Kenalog Cream", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Betamethasone", "brandName": "Celestoderm", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Betamethasone", "brandName": "Celestoderm", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Betamethasone", "brandName": "Celestoderm", "ageRange": "13-100", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Clobetasol Propionate", "brandName": "Dermovate", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Clobetasol Propionate", "brandName": "Dermovate", "ageRange": "6-12", "maxPerDose_mg": 0.05, "maxDosesPerDay": 1 },
+  { "scientificName": "Clobetasol Propionate", "brandName": "Dermovate", "ageRange": "13-100", "maxPerDose_mg": 0.05, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Halobetasol Propionate", "brandName": "Ultravate", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Halobetasol Propionate", "brandName": "Ultravate", "ageRange": "6-12", "maxPerDose_mg": 0.05, "maxDosesPerDay": 1 },
+  { "scientificName": "Halobetasol Propionate", "brandName": "Ultravate", "ageRange": "13-100", "maxPerDose_mg": 0.05, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Desonide", "brandName": "Desowen", "ageRange": "0-5", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+  { "scientificName": "Desonide", "brandName": "Desowen", "ageRange": "6-12", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+  { "scientificName": "Desonide", "brandName": "Desowen", "ageRange": "13-100", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Tobramycin", "brandName": "Tobrex", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Tobramycin", "brandName": "Tobrex", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+  { "scientificName": "Tobramycin", "brandName": "Tobrex", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Ciprofloxacin", "brandName": "Ciloxan", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Ciprofloxacin", "brandName": "Ciloxan", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+  { "scientificName": "Ciprofloxacin", "brandName": "Ciloxan", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Ofloxacin", "brandName": "Ocuflox", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Ofloxacin", "brandName": "Ocuflox", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+  { "scientificName": "Ofloxacin", "brandName": "Ocuflox", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Moxifloxacin", "brandName": "Vigamox", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Moxifloxacin", "brandName": "Vigamox", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Moxifloxacin", "brandName": "Vigamox", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Gatifloxacin", "brandName": "Zymar", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Gatifloxacin", "brandName": "Zymar", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+  { "scientificName": "Gatifloxacin", "brandName": "Zymar", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Dexamethasone", "brandName": "Maxidex", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Dexamethasone", "brandName": "Maxidex", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Dexamethasone", "brandName": "Maxidex", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Prednisolone", "brandName": "Pred Forte", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Prednisolone", "brandName": "Pred Forte", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Prednisolone", "brandName": "Pred Forte", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Loteprednol", "brandName": "Lotemax", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Loteprednol", "brandName": "Lotemax", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Loteprednol", "brandName": "Lotemax", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Fluorometholone", "brandName": "FML", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Fluorometholone", "brandName": "FML", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Fluorometholone", "brandName": "FML", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Ketorolac", "brandName": "Acular", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Ketorolac", "brandName": "Acular", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Ketorolac", "brandName": "Acular", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Diclofenac", "brandName": "Voltaren Ophtha", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Diclofenac", "brandName": "Voltaren Ophtha", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Diclofenac", "brandName": "Voltaren Ophtha", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Olopatadine", "brandName": "Patanol", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Olopatadine", "brandName": "Patanol", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Olopatadine", "brandName": "Patanol", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Azelastine", "brandName": "Optivar", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Azelastine", "brandName": "Optivar", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Azelastine", "brandName": "Optivar", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Naphazoline", "brandName": "Naphcon", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Naphazoline", "brandName": "Naphcon", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Naphazoline", "brandName": "Naphcon", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Tetrahydrozoline", "brandName": "Visine", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Tetrahydrozoline", "brandName": "Visine", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Tetrahydrozoline", "brandName": "Visine", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Brimonidine", "brandName": "Alphagan", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Brimonidine", "brandName": "Alphagan", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Brimonidine", "brandName": "Alphagan", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Timolol", "brandName": "Timoptic", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Timolol", "brandName": "Timoptic", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Timolol", "brandName": "Timoptic", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Dorzolamide", "brandName": "Trusopt", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Dorzolamide", "brandName": "Trusopt", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Dorzolamide", "brandName": "Trusopt", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Acetazolamide", "brandName": "Diamox Drops", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 2 },
+  { "scientificName": "Acetazolamide", "brandName": "Diamox Drops", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Acetazolamide", "brandName": "Diamox Drops", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Latanoprost", "brandName": "Xalatan", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Latanoprost", "brandName": "Xalatan", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Latanoprost", "brandName": "Xalatan", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Travoprost", "brandName": "Travatan", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Travoprost", "brandName": "Travatan", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Travoprost", "brandName": "Travatan", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Bimatoprost", "brandName": "Lumigan", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Bimatoprost", "brandName": "Lumigan", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Bimatoprost", "brandName": "Lumigan", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Pilocarpine", "brandName": "Isopto Carpine", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Pilocarpine", "brandName": "Isopto Carpine", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+  { "scientificName": "Pilocarpine", "brandName": "Isopto Carpine", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Paracetamol", "brandName": "Calpol Syrup", "ageRange": "0-5", "maxPerDose_mg": 120, "maxDosesPerDay": 4 },
+  { "scientificName": "Paracetamol", "brandName": "Calpol Syrup", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 4 },
+  { "scientificName": "Paracetamol", "brandName": "Calpol Syrup", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Ibuprofen", "brandName": "Brufen Syrup", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 3 },
+  { "scientificName": "Ibuprofen", "brandName": "Brufen Syrup", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 4 },
+  { "scientificName": "Ibuprofen", "brandName": "Brufen Syrup", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Amoxicillin", "brandName": "Amoxil Syrup", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 3 },
+  { "scientificName": "Amoxicillin", "brandName": "Amoxil Syrup", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 3 },
+  { "scientificName": "Amoxicillin", "brandName": "Amoxil Syrup", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Azithromycin", "brandName": "Zithromax Syrup", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Azithromycin", "brandName": "Zithromax Syrup", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+  { "scientificName": "Azithromycin", "brandName": "Zithromax Syrup", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Clarithromycin", "brandName": "Klacid Syrup", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 2 },
+  { "scientificName": "Clarithromycin", "brandName": "Klacid Syrup", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Clarithromycin", "brandName": "Klacid Syrup", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Cefixime", "brandName": "Suprax Syrup", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefixime", "brandName": "Suprax Syrup", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefixime", "brandName": "Suprax Syrup", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Cefuroxime", "brandName": "Zinnat Syrup", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefuroxime", "brandName": "Zinnat Syrup", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefuroxime", "brandName": "Zinnat Syrup", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Loratadine", "brandName": "Claritin Syrup", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Loratadine", "brandName": "Claritin Syrup", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Loratadine", "brandName": "Claritin Syrup", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Cetirizine", "brandName": "Zyrtec Syrup", "ageRange": "0-5", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Cetirizine", "brandName": "Zyrtec Syrup", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Cetirizine", "brandName": "Zyrtec Syrup", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Diphenhydramine", "brandName": "Benadryl Syrup", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+  { "scientificName": "Diphenhydramine", "brandName": "Benadryl Syrup", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 3 },
+  { "scientificName": "Diphenhydramine", "brandName": "Benadryl Syrup", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Montelukast", "brandName": "Singulair Syrup", "ageRange": "0-5", "maxPerDose_mg": 4, "maxDosesPerDay": 1 },
+  { "scientificName": "Montelukast", "brandName": "Singulair Syrup", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Montelukast", "brandName": "Singulair Syrup", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Salbutamol", "brandName": "Ventolin Syrup", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Salbutamol", "brandName": "Ventolin Syrup", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Salbutamol", "brandName": "Ventolin Syrup", "ageRange": "13-100", "maxPerDose_mg": 4, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Ambroxol", "brandName": "Mucosolvan Syrup", "ageRange": "0-5", "maxPerDose_mg": 15, "maxDosesPerDay": 2 },
+  { "scientificName": "Ambroxol", "brandName": "Mucosolvan Syrup", "ageRange": "6-12", "maxPerDose_mg": 30, "maxDosesPerDay": 3 },
+  { "scientificName": "Ambroxol", "brandName": "Mucosolvan Syrup", "ageRange": "13-100", "maxPerDose_mg": 60, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Bromhexine", "brandName": "Bisolvon Syrup", "ageRange": "0-5", "maxPerDose_mg": 4, "maxDosesPerDay": 3 },
+  { "scientificName": "Bromhexine", "brandName": "Bisolvon Syrup", "ageRange": "6-12", "maxPerDose_mg": 8, "maxDosesPerDay": 3 },
+  { "scientificName": "Bromhexine", "brandName": "Bisolvon Syrup", "ageRange": "13-100", "maxPerDose_mg": 16, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Carbocisteine", "brandName": "Mucodyne Syrup", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+  { "scientificName": "Carbocisteine", "brandName": "Mucodyne Syrup", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Carbocisteine", "brandName": "Mucodyne Syrup", "ageRange": "13-100", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Dextromethorphan", "brandName": "Robitussin Syrup", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+  { "scientificName": "Dextromethorphan", "brandName": "Robitussin Syrup", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 3 },
+  { "scientificName": "Dextromethorphan", "brandName": "Robitussin Syrup", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Guaifenesin", "brandName": "Tussex Syrup", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 3 },
+  { "scientificName": "Guaifenesin", "brandName": "Tussex Syrup", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 3 },
+  { "scientificName": "Guaifenesin", "brandName": "Tussex Syrup", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Levocetirizine", "brandName": "Xyzal Syrup", "ageRange": "0-5", "maxPerDose_mg": 1.25, "maxDosesPerDay": 1 },
+  { "scientificName": "Levocetirizine", "brandName": "Xyzal Syrup", "ageRange": "6-12", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Levocetirizine", "brandName": "Xyzal Syrup", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Hydroxyzine", "brandName": "Atarax Syrup", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Hydroxyzine", "brandName": "Atarax Syrup", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Hydroxyzine", "brandName": "Atarax Syrup", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Chlorpheniramine", "brandName": "Piriton Syrup", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Chlorpheniramine", "brandName": "Piriton Syrup", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Chlorpheniramine", "brandName": "Piriton Syrup", "ageRange": "13-100", "maxPerDose_mg": 4, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Ranitidine", "brandName": "Zantac Syrup", "ageRange": "0-5", "maxPerDose_mg": 30, "maxDosesPerDay": 2 },
+  { "scientificName": "Ranitidine", "brandName": "Zantac Syrup", "ageRange": "6-12", "maxPerDose_mg": 75, "maxDosesPerDay": 2 },
+  { "scientificName": "Ranitidine", "brandName": "Zantac Syrup", "ageRange": "13-100", "maxPerDose_mg": 150, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Famotidine", "brandName": "Pepcid Syrup", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Famotidine", "brandName": "Pepcid Syrup", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 2 },
+  { "scientificName": "Famotidine", "brandName": "Pepcid Syrup", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Omeprazole", "brandName": "Losec Syrup", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Omeprazole", "brandName": "Losec Syrup", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Omeprazole", "brandName": "Losec Syrup", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Esomeprazole", "brandName": "Nexium Syrup", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Esomeprazole", "brandName": "Nexium Syrup", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Esomeprazole", "brandName": "Nexium Syrup", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Domperidone", "brandName": "Motilium Syrup", "ageRange": "0-5", "maxPerDose_mg": 2.5, "maxDosesPerDay": 3 },
+  { "scientificName": "Domperidone", "brandName": "Motilium Syrup", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 3 },
+  { "scientificName": "Domperidone", "brandName": "Motilium Syrup", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Metoclopramide", "brandName": "Primperan Syrup", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Metoclopramide", "brandName": "Primperan Syrup", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Metoclopramide", "brandName": "Primperan Syrup", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Ondansetron", "brandName": "Zofran Syrup", "ageRange": "0-5", "maxPerDose_mg": 2, "maxDosesPerDay": 2 },
+  { "scientificName": "Ondansetron", "brandName": "Zofran Syrup", "ageRange": "6-12", "maxPerDose_mg": 4, "maxDosesPerDay": 2 },
+  { "scientificName": "Ondansetron", "brandName": "Zofran Syrup", "ageRange": "13-100", "maxPerDose_mg": 8, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Lactulose", "brandName": "Duphalac Syrup", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Lactulose", "brandName": "Duphalac Syrup", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Lactulose", "brandName": "Duphalac Syrup", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Magnesium Hydroxide", "brandName": "Milk of Magnesia", "ageRange": "0-5", "maxPerDose_mg": 2.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Magnesium Hydroxide", "brandName": "Milk of Magnesia", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Magnesium Hydroxide", "brandName": "Milk of Magnesia", "ageRange": "13-100", "maxPerDose_mg": 15, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Ferrous Sulfate", "brandName": "Ferrograd Syrup", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Ferrous Sulfate", "brandName": "Ferrograd Syrup", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Ferrous Sulfate", "brandName": "Ferrograd Syrup", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Folic Acid", "brandName": "Folvite Syrup", "ageRange": "0-5", "maxPerDose_mg": 0.1, "maxDosesPerDay": 1 },
+  { "scientificName": "Folic Acid", "brandName": "Folvite Syrup", "ageRange": "6-12", "maxPerDose_mg": 0.2, "maxDosesPerDay": 1 },
+  { "scientificName": "Folic Acid", "brandName": "Folvite Syrup", "ageRange": "13-100", "maxPerDose_mg": 0.4, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin B Complex", "brandName": "Neurobion Syrup", "ageRange": "0-5", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B Complex", "brandName": "Neurobion Syrup", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin B Complex", "brandName": "Neurobion Syrup", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin D3", "brandName": "Devarol Syrup", "ageRange": "0-5", "maxPerDose_mg": 400, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin D3", "brandName": "Devarol Syrup", "ageRange": "6-12", "maxPerDose_mg": 800, "maxDosesPerDay": 1 },
+  { "scientificName": "Vitamin D3", "brandName": "Devarol Syrup", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Vitamin C", "brandName": "C-Vit Syrup", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Vitamin C", "brandName": "C-Vit Syrup", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Vitamin C", "brandName": "C-Vit Syrup", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Zinc Sulfate", "brandName": "Zincomed Syrup", "ageRange": "0-5", "maxPerDose_mg": 5, "maxDosesPerDay": 1 },
+  { "scientificName": "Zinc Sulfate", "brandName": "Zincomed Syrup", "ageRange": "6-12", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Zinc Sulfate", "brandName": "Zincomed Syrup", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Calcium + Vitamin D", "brandName": "Osteocare Syrup", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Calcium + Vitamin D", "brandName": "Osteocare Syrup", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "Calcium + Vitamin D", "brandName": "Osteocare Syrup", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+  { "scientificName": "Ceftriaxone", "brandName": "Rocephin Injection", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Ceftriaxone", "brandName": "Rocephin Injection", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+  { "scientificName": "Ceftriaxone", "brandName": "Rocephin Injection", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Cefotaxime", "brandName": "Claforan Injection", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefotaxime", "brandName": "Claforan Injection", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefotaxime", "brandName": "Claforan Injection", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Cefepime", "brandName": "Maxipime Injection", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefepime", "brandName": "Maxipime Injection", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+  { "scientificName": "Cefepime", "brandName": "Maxipime Injection", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Gentamicin", "brandName": "Garamycin Injection", "ageRange": "0-5", "maxPerDose_mg": 2.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Gentamicin", "brandName": "Garamycin Injection", "ageRange": "6-12", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+  { "scientificName": "Gentamicin", "brandName": "Garamycin Injection", "ageRange": "13-100", "maxPerDose_mg": 80, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Amikacin", "brandName": "Amikin Injection", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+  { "scientificName": "Amikacin", "brandName": "Amikin Injection", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Amikacin", "brandName": "Amikin Injection", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Insulin Regular", "brandName": "Humulin R", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Insulin Regular", "brandName": "Humulin R", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 3 },
+  { "scientificName": "Insulin Regular", "brandName": "Humulin R", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Insulin Glargine", "brandName": "Lantus", "ageRange": "0-5", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Insulin Glargine", "brandName": "Lantus", "ageRange": "6-12", "maxPerDose_mg": 2, "maxDosesPerDay": 1 },
+  { "scientificName": "Insulin Glargine", "brandName": "Lantus", "ageRange": "13-100", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Enoxaparin", "brandName": "Clexane", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Enoxaparin", "brandName": "Clexane", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Enoxaparin", "brandName": "Clexane", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Heparin", "brandName": "Heparin Sodium", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Heparin", "brandName": "Heparin Sodium", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 2 },
+  { "scientificName": "Heparin", "brandName": "Heparin Sodium", "ageRange": "13-100", "maxPerDose_mg": 5000, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Adrenaline", "brandName": "Epinephrine Injection", "ageRange": "0-5", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+  { "scientificName": "Adrenaline", "brandName": "Epinephrine Injection", "ageRange": "6-12", "maxPerDose_mg": 0.2, "maxDosesPerDay": 2 },
+  { "scientificName": "Adrenaline", "brandName": "Epinephrine Injection", "ageRange": "13-100", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Morphine", "brandName": "Morphine Sulfate Injection", "ageRange": "0-5", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+  { "scientificName": "Morphine", "brandName": "Morphine Sulfate Injection", "ageRange": "6-12", "maxPerDose_mg": 0.2, "maxDosesPerDay": 2 },
+  { "scientificName": "Morphine", "brandName": "Morphine Sulfate Injection", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Fentanyl", "brandName": "Fentanyl Injection", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Fentanyl", "brandName": "Fentanyl Injection", "ageRange": "6-12", "maxPerDose_mg": 0.01, "maxDosesPerDay": 2 },
+  { "scientificName": "Fentanyl", "brandName": "Fentanyl Injection", "ageRange": "13-100", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Midazolam", "brandName": "Dormicum Injection", "ageRange": "0-5", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+  { "scientificName": "Midazolam", "brandName": "Dormicum Injection", "ageRange": "6-12", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+  { "scientificName": "Midazolam", "brandName": "Dormicum Injection", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Diazepam", "brandName": "Valium Injection", "ageRange": "0-5", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+  { "scientificName": "Diazepam", "brandName": "Valium Injection", "ageRange": "6-12", "maxPerDose_mg": 0.2, "maxDosesPerDay": 2 },
+  { "scientificName": "Diazepam", "brandName": "Valium Injection", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Lorazepam", "brandName": "Ativan Injection", "ageRange": "0-5", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+  { "scientificName": "Lorazepam", "brandName": "Ativan Injection", "ageRange": "6-12", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+  { "scientificName": "Lorazepam", "brandName": "Ativan Injection", "ageRange": "13-100", "maxPerDose_mg": 4, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Haloperidol", "brandName": "Haldol Injection", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Haloperidol", "brandName": "Haldol Injection", "ageRange": "6-12", "maxPerDose_mg": 0.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Haloperidol", "brandName": "Haldol Injection", "ageRange": "13-100", "maxPerDose_mg": 5, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Chlorpromazine", "brandName": "Largactil Injection", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Chlorpromazine", "brandName": "Largactil Injection", "ageRange": "6-12", "maxPerDose_mg": 12.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Chlorpromazine", "brandName": "Largactil Injection", "ageRange": "13-100", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Metoclopramide", "brandName": "Primperan Injection", "ageRange": "0-5", "maxPerDose_mg": 0.5, "maxDosesPerDay": 3 },
+  { "scientificName": "Metoclopramide", "brandName": "Primperan Injection", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 3 },
+  { "scientificName": "Metoclopramide", "brandName": "Primperan Injection", "ageRange": "13-100", "maxPerDose_mg": 10, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Ondansetron", "brandName": "Zofran Injection", "ageRange": "0-5", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+  { "scientificName": "Ondansetron", "brandName": "Zofran Injection", "ageRange": "6-12", "maxPerDose_mg": 0.15, "maxDosesPerDay": 2 },
+  { "scientificName": "Ondansetron", "brandName": "Zofran Injection", "ageRange": "13-100", "maxPerDose_mg": 8, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Pantoprazole", "brandName": "Controloc Injection", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Pantoprazole", "brandName": "Controloc Injection", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Pantoprazole", "brandName": "Controloc Injection", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Omeprazole", "brandName": "Losec Injection", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Omeprazole", "brandName": "Losec Injection", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Omeprazole", "brandName": "Losec Injection", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Hydrocortisone", "brandName": "Solu-Cortef", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 2 },
+  { "scientificName": "Hydrocortisone", "brandName": "Solu-Cortef", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Hydrocortisone", "brandName": "Solu-Cortef", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Methylprednisolone", "brandName": "Solu-Medrol", "ageRange": "0-5", "maxPerDose_mg": 10, "maxDosesPerDay": 1 },
+  { "scientificName": "Methylprednisolone", "brandName": "Solu-Medrol", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 1 },
+  { "scientificName": "Methylprednisolone", "brandName": "Solu-Medrol", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Penicillin G", "brandName": "Crystapen", "ageRange": "0-5", "maxPerDose_mg": 250000, "maxDosesPerDay": 2 },
+  { "scientificName": "Penicillin G", "brandName": "Crystapen", "ageRange": "6-12", "maxPerDose_mg": 500000, "maxDosesPerDay": 2 },
+  { "scientificName": "Penicillin G", "brandName": "Crystapen", "ageRange": "13-100", "maxPerDose_mg": 1000000, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Benzathine Penicillin", "brandName": "Penadur", "ageRange": "0-5", "maxPerDose_mg": 600000, "maxDosesPerDay": 1 },
+  { "scientificName": "Benzathine Penicillin", "brandName": "Penadur", "ageRange": "6-12", "maxPerDose_mg": 1200000, "maxDosesPerDay": 1 },
+  { "scientificName": "Benzathine Penicillin", "brandName": "Penadur", "ageRange": "13-100", "maxPerDose_mg": 2400000, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Ampicillin", "brandName": "Omnipen Injection", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 3 },
+  { "scientificName": "Ampicillin", "brandName": "Omnipen Injection", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 3 },
+  { "scientificName": "Ampicillin", "brandName": "Omnipen Injection", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Vancomycin", "brandName": "Vancocin", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 2 },
+  { "scientificName": "Vancomycin", "brandName": "Vancocin", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Vancomycin", "brandName": "Vancocin", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Meropenem", "brandName": "Meronem", "ageRange": "0-5", "maxPerDose_mg": 250, "maxDosesPerDay": 3 },
+  { "scientificName": "Meropenem", "brandName": "Meronem", "ageRange": "6-12", "maxPerDose_mg": 500, "maxDosesPerDay": 3 },
+  { "scientificName": "Meropenem", "brandName": "Meronem", "ageRange": "13-100", "maxPerDose_mg": 1000, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Imipenem + Cilastatin", "brandName": "Tienam", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 3 },
+  { "scientificName": "Imipenem + Cilastatin", "brandName": "Tienam", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 3 },
+  { "scientificName": "Imipenem + Cilastatin", "brandName": "Tienam", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Clindamycin", "brandName": "Dalacin C Injection", "ageRange": "0-5", "maxPerDose_mg": 75, "maxDosesPerDay": 2 },
+  { "scientificName": "Clindamycin", "brandName": "Dalacin C Injection", "ageRange": "6-12", "maxPerDose_mg": 150, "maxDosesPerDay": 2 },
+  { "scientificName": "Clindamycin", "brandName": "Dalacin C Injection", "ageRange": "13-100", "maxPerDose_mg": 600, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Azithromycin", "brandName": "Zithromax Injection", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Azithromycin", "brandName": "Zithromax Injection", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 1 },
+  { "scientificName": "Azithromycin", "brandName": "Zithromax Injection", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Erythromycin", "brandName": "Erythrocin Injection", "ageRange": "0-5", "maxPerDose_mg": 125, "maxDosesPerDay": 2 },
+  { "scientificName": "Erythromycin", "brandName": "Erythrocin Injection", "ageRange": "6-12", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+  { "scientificName": "Erythromycin", "brandName": "Erythrocin Injection", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Linezolid", "brandName": "Zyvox Injection", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Linezolid", "brandName": "Zyvox Injection", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 2 },
+  { "scientificName": "Linezolid", "brandName": "Zyvox Injection", "ageRange": "13-100", "maxPerDose_mg": 600, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Colistin", "brandName": "Coly-Mycin", "ageRange": "0-5", "maxPerDose_mg": 20, "maxDosesPerDay": 2 },
+  { "scientificName": "Colistin", "brandName": "Coly-Mycin", "ageRange": "6-12", "maxPerDose_mg": 40, "maxDosesPerDay": 2 },
+  { "scientificName": "Colistin", "brandName": "Coly-Mycin", "ageRange": "13-100", "maxPerDose_mg": 150, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Tigecycline", "brandName": "Tygacil", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Tigecycline", "brandName": "Tygacil", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Tigecycline", "brandName": "Tygacil", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Daptomycin", "brandName": "Cubicin", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Daptomycin", "brandName": "Cubicin", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+  { "scientificName": "Daptomycin", "brandName": "Cubicin", "ageRange": "13-100", "maxPerDose_mg": 500, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Caspofungin", "brandName": "Cancidas", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Caspofungin", "brandName": "Cancidas", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Caspofungin", "brandName": "Cancidas", "ageRange": "13-100", "maxPerDose_mg": 70, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Amphotericin B", "brandName": "Fungizone", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Amphotericin B", "brandName": "Fungizone", "ageRange": "6-12", "maxPerDose_mg": 0.25, "maxDosesPerDay": 1 },
+  { "scientificName": "Amphotericin B", "brandName": "Fungizone", "ageRange": "13-100", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Fluconazole", "brandName": "Diflucan Injection", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 1 },
+  { "scientificName": "Fluconazole", "brandName": "Diflucan Injection", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Fluconazole", "brandName": "Diflucan Injection", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Salbutamol", "brandName": "Ventolin Inhaler", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Salbutamol", "brandName": "Ventolin Inhaler", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 3 },
+  { "scientificName": "Salbutamol", "brandName": "Ventolin Inhaler", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Beclomethasone", "brandName": "Becloforte Inhaler", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+  { "scientificName": "Beclomethasone", "brandName": "Becloforte Inhaler", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Beclomethasone", "brandName": "Becloforte Inhaler", "ageRange": "13-100", "maxPerDose_mg": 200, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Budesonide", "brandName": "Pulmicort Inhaler", "ageRange": "0-5", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Budesonide", "brandName": "Pulmicort Inhaler", "ageRange": "6-12", "maxPerDose_mg": 200, "maxDosesPerDay": 2 },
+  { "scientificName": "Budesonide", "brandName": "Pulmicort Inhaler", "ageRange": "13-100", "maxPerDose_mg": 400, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Fluticasone", "brandName": "Flixotide Inhaler", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+  { "scientificName": "Fluticasone", "brandName": "Flixotide Inhaler", "ageRange": "6-12", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+  { "scientificName": "Fluticasone", "brandName": "Flixotide Inhaler", "ageRange": "13-100", "maxPerDose_mg": 250, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Salmeterol", "brandName": "Serevent Inhaler", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Salmeterol", "brandName": "Serevent Inhaler", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Salmeterol", "brandName": "Serevent Inhaler", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Formoterol", "brandName": "Foradil Inhaler", "ageRange": "0-5", "maxPerDose_mg": 6, "maxDosesPerDay": 2 },
+  { "scientificName": "Formoterol", "brandName": "Foradil Inhaler", "ageRange": "6-12", "maxPerDose_mg": 6, "maxDosesPerDay": 2 },
+  { "scientificName": "Formoterol", "brandName": "Foradil Inhaler", "ageRange": "13-100", "maxPerDose_mg": 12, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Ipratropium", "brandName": "Atrovent Inhaler", "ageRange": "0-5", "maxPerDose_mg": 20, "maxDosesPerDay": 3 },
+  { "scientificName": "Ipratropium", "brandName": "Atrovent Inhaler", "ageRange": "6-12", "maxPerDose_mg": 20, "maxDosesPerDay": 4 },
+  { "scientificName": "Ipratropium", "brandName": "Atrovent Inhaler", "ageRange": "13-100", "maxPerDose_mg": 40, "maxDosesPerDay": 4 },
+
+  { "scientificName": "Tiotropium", "brandName": "Spiriva Inhaler", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Tiotropium", "brandName": "Spiriva Inhaler", "ageRange": "6-12", "maxPerDose_mg": 1, "maxDosesPerDay": 1 },
+  { "scientificName": "Tiotropium", "brandName": "Spiriva Inhaler", "ageRange": "13-100", "maxPerDose_mg": 2.5, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Mometasone", "brandName": "Nasonex Spray", "ageRange": "0-5", "maxPerDose_mg": 50, "maxDosesPerDay": 1 },
+  { "scientificName": "Mometasone", "brandName": "Nasonex Spray", "ageRange": "6-12", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+  { "scientificName": "Mometasone", "brandName": "Nasonex Spray", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Fluticasone Furoate", "brandName": "Avamys Spray", "ageRange": "0-5", "maxPerDose_mg": 27.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Fluticasone Furoate", "brandName": "Avamys Spray", "ageRange": "6-12", "maxPerDose_mg": 27.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Fluticasone Furoate", "brandName": "Avamys Spray", "ageRange": "13-100", "maxPerDose_mg": 55, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Triamcinolone", "brandName": "Nasacort Spray", "ageRange": "0-5", "maxPerDose_mg": 55, "maxDosesPerDay": 1 },
+  { "scientificName": "Triamcinolone", "brandName": "Nasacort Spray", "ageRange": "6-12", "maxPerDose_mg": 55, "maxDosesPerDay": 2 },
+  { "scientificName": "Triamcinolone", "brandName": "Nasacort Spray", "ageRange": "13-100", "maxPerDose_mg": 110, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Oxymetazoline", "brandName": "Afrin Spray", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Oxymetazoline", "brandName": "Afrin Spray", "ageRange": "6-12", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+  { "scientificName": "Oxymetazoline", "brandName": "Afrin Spray", "ageRange": "13-100", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Xylometazoline", "brandName": "Otrivin Spray", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Xylometazoline", "brandName": "Otrivin Spray", "ageRange": "6-12", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+  { "scientificName": "Xylometazoline", "brandName": "Otrivin Spray", "ageRange": "13-100", "maxPerDose_mg": 0.1, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Ipratropium Nasal", "brandName": "Atrovent Nasal Spray", "ageRange": "0-5", "maxPerDose_mg": 21, "maxDosesPerDay": 2 },
+  { "scientificName": "Ipratropium Nasal", "brandName": "Atrovent Nasal Spray", "ageRange": "6-12", "maxPerDose_mg": 21, "maxDosesPerDay": 3 },
+  { "scientificName": "Ipratropium Nasal", "brandName": "Atrovent Nasal Spray", "ageRange": "13-100", "maxPerDose_mg": 42, "maxDosesPerDay": 3 },
+
+  { "scientificName": "Ciclesonide", "brandName": "Omnaris Spray", "ageRange": "0-5", "maxPerDose_mg": 37.5, "maxDosesPerDay": 1 },
+  { "scientificName": "Ciclesonide", "brandName": "Omnaris Spray", "ageRange": "6-12", "maxPerDose_mg": 37.5, "maxDosesPerDay": 2 },
+  { "scientificName": "Ciclesonide", "brandName": "Omnaris Spray", "ageRange": "13-100", "maxPerDose_mg": 75, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Azelastine Nasal", "brandName": "Astepro Spray", "ageRange": "0-5", "maxPerDose_mg": 137, "maxDosesPerDay": 1 },
+  { "scientificName": "Azelastine Nasal", "brandName": "Astepro Spray", "ageRange": "6-12", "maxPerDose_mg": 137, "maxDosesPerDay": 2 },
+  { "scientificName": "Azelastine Nasal", "brandName": "Astepro Spray", "ageRange": "13-100", "maxPerDose_mg": 274, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Levocabastine", "brandName": "Livostin Spray", "ageRange": "0-5", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Levocabastine", "brandName": "Livostin Spray", "ageRange": "6-12", "maxPerDose_mg": 25, "maxDosesPerDay": 2 },
+  { "scientificName": "Levocabastine", "brandName": "Livostin Spray", "ageRange": "13-100", "maxPerDose_mg": 50, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Ketotifen Nasal", "brandName": "Zaditen Spray", "ageRange": "0-5", "maxPerDose_mg": 0, "maxDosesPerDay": 0 },
+  { "scientificName": "Ketotifen Nasal", "brandName": "Zaditen Spray", "ageRange": "6-12", "maxPerDose_mg": 0.025, "maxDosesPerDay": 2 },
+  { "scientificName": "Ketotifen Nasal", "brandName": "Zaditen Spray", "ageRange": "13-100", "maxPerDose_mg": 0.05, "maxDosesPerDay": 2 },
+
+  { "scientificName": "Mepolizumab", "brandName": "Nucala Inhaler", "ageRange": "0-5", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+  { "scientificName": "Mepolizumab", "brandName": "Nucala Inhaler", "ageRange": "6-12", "maxPerDose_mg": 40, "maxDosesPerDay": 1 },
+  { "scientificName": "Mepolizumab", "brandName": "Nucala Inhaler", "ageRange": "13-100", "maxPerDose_mg": 100, "maxDosesPerDay": 1 },
+
+  { "scientificName": "Omalizumab", "brandName": "Xolair Inhaler", "ageRange": "0-5", "maxPerDose_mg": 75, "maxDosesPerDay": 1 },
+  { "scientificName": "Omalizumab", "brandName": "Xolair Inhaler", "ageRange": "6-12", "maxPerDose_mg": 75, "maxDosesPerDay": 1 },
+  { "scientificName": "Omalizumab", "brandName": "Xolair Inhaler", "ageRange": "13-100", "maxPerDose_mg": 150, "maxDosesPerDay": 1 }]
+

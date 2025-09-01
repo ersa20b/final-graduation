@@ -1,0 +1,2870 @@
+[
+  {
+    "drug1": { "brand": "Brufen", "generic": "Ibuprofen" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Panadol", "generic": "Paracetamol" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Cataflam", "generic": "Diclofenac Potassium" },
+    "drug2": { "brand": "Plavix", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Voltaren", "generic": "Diclofenac Sodium" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Augmentin", "generic": "Amoxicillin + Clavulanic Acid" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Zyrtec", "generic": "Cetirizine" },
+    "drug2": { "brand": "Telfast", "generic": "Fexofenadine" }
+  },
+  {
+    "drug1": { "brand": "Lasix", "generic": "Furosemide" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Flagyl", "generic": "Metronidazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Lipitor", "generic": "Atorvastatin" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Zoloft", "generic": "Sertraline" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Glucophage", "generic": "Metformin" },
+    "drug2": { "brand": "Lasix", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Cozaar", "generic": "Losartan" },
+    "drug2": { "brand": "Ibuprofen", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Tenormin", "generic": "Atenolol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Nexium", "generic": "Esomeprazole" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Amaryl", "generic": "Glimepiride" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Glucovance", "generic": "Metformin + Glyburide" },
+    "drug2": { "brand": "Atenolol", "generic": "Atenolol" }
+  },
+  {
+    "drug1": { "brand": "Plavix", "generic": "Clopidogrel" },
+    "drug2": { "brand": "Omeprazole", "generic": "Omeprazole" }
+  },
+  {
+    "drug1": { "brand": "Synthroid", "generic": "Levothyroxine" },
+    "drug2": { "brand": "Calcium", "generic": "Calcium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Crestor", "generic": "Rosuvastatin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Prozac", "generic": "Fluoxetine" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+
+
+  {
+    "drug1": { "brand": "Cardura", "generic": "Doxazosin" },
+    "drug2": { "brand": "Viagra", "generic": "Sildenafil" }
+  },
+  {
+    "drug1": { "brand": "Inderal", "generic": "Propranolol" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Xanax", "generic": "Alprazolam" },
+    "drug2": { "brand": "Fluoxetine", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Motrin", "generic": "Ibuprofen" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Coumadin", "generic": "Warfarin" },
+    "drug2": { "brand": "Amiodarone", "generic": "Amiodarone" }
+  },
+  {
+    "drug1": { "brand": "Lanoxin", "generic": "Digoxin" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Cymbalta", "generic": "Duloxetine" },
+    "drug2": { "brand": "Amitriptyline", "generic": "Amitriptyline" }
+  },
+  {
+    "drug1": { "brand": "Celebrex", "generic": "Celecoxib" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Norvasc", "generic": "Amlodipine" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Paxil", "generic": "Paroxetine" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Zithromax", "generic": "Azithromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Toprol", "generic": "Metoprolol" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "Clomid", "generic": "Clomiphene" },
+    "drug2": { "brand": "Serophene", "generic": "Clomiphene" }
+  },
+  {
+    "drug1": { "brand": "Glucophage", "generic": "Metformin" },
+    "drug2": { "brand": "Cimetidine", "generic": "Cimetidine" }
+  },
+  {
+    "drug1": { "brand": "Effexor", "generic": "Venlafaxine" },
+    "drug2": { "brand": "Tramadol", "generic": "Tramadol" }
+  },
+  {
+    "drug1": { "brand": "Tagamet", "generic": "Cimetidine" },
+    "drug2": { "brand": "Theophylline", "generic": "Theophylline" }
+  },
+  {
+    "drug1": { "brand": "Wellbutrin", "generic": "Bupropion" },
+    "drug2": { "brand": "Selegiline", "generic": "Selegiline" }
+  },
+  {
+    "drug1": { "brand": "Keppra", "generic": "Levetiracetam" },
+    "drug2": { "brand": "Carbamazepine", "generic": "Carbamazepine" }
+  },
+  {
+    "drug1": { "brand": "Aldactone", "generic": "Spironolactone" },
+    "drug2": { "brand": "Enalapril", "generic": "Enalapril" }
+  },
+  {
+    "drug1": { "brand": "Protonix", "generic": "Pantoprazole" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+
+
+  {
+    "drug1": { "brand": "Aricept", "generic": "Donepezil" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Prilosec", "generic": "Omeprazole" },
+    "drug2": { "brand": "Diazepam", "generic": "Diazepam" }
+  },
+  {
+    "drug1": { "brand": "Dilantin", "generic": "Phenytoin" },
+    "drug2": { "brand": "Isoniazid", "generic": "Isoniazid" }
+  },
+  {
+    "drug1": { "brand": "Starlix", "generic": "Nateglinide" },
+    "drug2": { "brand": "Gemfibrozil", "generic": "Gemfibrozil" }
+  },
+  {
+    "drug1": { "brand": "Trileptal", "generic": "Oxcarbazepine" },
+    "drug2": { "brand": "Phenytoin", "generic": "Phenytoin" }
+  },
+  {
+    "drug1": { "brand": "Depakote", "generic": "Valproic Acid" },
+    "drug2": { "brand": "Lamictal", "generic": "Lamotrigine" }
+  },
+  {
+    "drug1": { "brand": "Seroquel", "generic": "Quetiapine" },
+    "drug2": { "brand": "Fluconazole", "generic": "Fluconazole" }
+  },
+  {
+    "drug1": { "brand": "Risperdal", "generic": "Risperidone" },
+    "drug2": { "brand": "Carbamazepine", "generic": "Carbamazepine" }
+  },
+  {
+    "drug1": { "brand": "Zyprexa", "generic": "Olanzapine" },
+    "drug2": { "brand": "Fluvoxamine", "generic": "Fluvoxamine" }
+  },
+  {
+    "drug1": { "brand": "Haldol", "generic": "Haloperidol" },
+    "drug2": { "brand": "Lithium", "generic": "Lithium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Clozaril", "generic": "Clozapine" },
+    "drug2": { "brand": "Carbamazepine", "generic": "Carbamazepine" }
+  },
+  {
+    "drug1": { "brand": "Abilify", "generic": "Aripiprazole" },
+    "drug2": { "brand": "Fluoxetine", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Geodon", "generic": "Ziprasidone" },
+    "drug2": { "brand": "Quinidine", "generic": "Quinidine" }
+  },
+  {
+    "drug1": { "brand": "Lyrica", "generic": "Pregabalin" },
+    "drug2": { "brand": "Lorazepam", "generic": "Lorazepam" }
+  },
+  {
+    "drug1": { "brand": "Neurontin", "generic": "Gabapentin" },
+    "drug2": { "brand": "Hydrocodone", "generic": "Hydrocodone" }
+  },
+  {
+    "drug1": { "brand": "Strattera", "generic": "Atomoxetine" },
+    "drug2": { "brand": "Paroxetine", "generic": "Paroxetine" }
+  },
+  {
+    "drug1": { "brand": "Concerta", "generic": "Methylphenidate" },
+    "drug2": { "brand": "MAOI", "generic": "Monoamine Oxidase Inhibitors" }
+  },
+  {
+    "drug1": { "brand": "Adderall", "generic": "Amphetamine/Dextroamphetamine" },
+    "drug2": { "brand": "Fluoxetine", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Ritalin", "generic": "Methylphenidate" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Provigil", "generic": "Modafinil" },
+    "drug2": { "brand": "Citalopram", "generic": "Citalopram" }
+  },
+
+
+  {
+    "drug1": { "brand": "Minipress", "generic": "Prazosin" },
+    "drug2": { "brand": "Sildenafil", "generic": "Sildenafil" }
+  },
+  {
+    "drug1": { "brand": "Catapres", "generic": "Clonidine" },
+    "drug2": { "brand": "Metoprolol", "generic": "Metoprolol" }
+  },
+  {
+    "drug1": { "brand": "Aldomet", "generic": "Methyldopa" },
+    "drug2": { "brand": "Lithium", "generic": "Lithium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Hydrea", "generic": "Hydroxyurea" },
+    "drug2": { "brand": "Didanosine", "generic": "Didanosine" }
+  },
+  {
+    "drug1": { "brand": "Tamoxifen", "generic": "Tamoxifen" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Fosamax", "generic": "Alendronate" },
+    "drug2": { "brand": "Calcium", "generic": "Calcium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Evista", "generic": "Raloxifene" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Boniva", "generic": "Ibandronate" },
+    "drug2": { "brand": "NSAIDs", "generic": "Non-Steroidal Anti-Inflammatory Drugs" }
+  },
+  {
+    "drug1": { "brand": "Actonel", "generic": "Risedronate" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Evotrox", "generic": "Levothyroxine" },
+    "drug2": { "brand": "Iron Supplements", "generic": "Ferrous Sulfate" }
+  },
+  {
+    "drug1": { "brand": "Zyloprim", "generic": "Allopurinol" },
+    "drug2": { "brand": "Azathioprine", "generic": "Azathioprine" }
+  },
+  {
+    "drug1": { "brand": "Colchicine", "generic": "Colchicine" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Probenecid", "generic": "Probenecid" },
+    "drug2": { "brand": "Penicillin", "generic": "Penicillin" }
+  },
+  {
+    "drug1": { "brand": "Indocin", "generic": "Indomethacin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Naprosyn", "generic": "Naproxen" },
+    "drug2": { "brand": "Lithium", "generic": "Lithium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Meloxicam", "generic": "Meloxicam" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Celebrex", "generic": "Celecoxib" },
+    "drug2": { "brand": "Furosemide", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Motrin", "generic": "Ibuprofen" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Diclofenac", "generic": "Diclofenac" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+
+
+  {
+    "drug1": { "brand": "Glucophage", "generic": "Metformin" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Januvia", "generic": "Sitagliptin" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Amaryl", "generic": "Glimepiride" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Diamicron", "generic": "Gliclazide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Glyset", "generic": "Miglitol" },
+    "drug2": { "brand": "Propranolol", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Starlix", "generic": "Nateglinide" },
+    "drug2": { "brand": "Gemfibrozil", "generic": "Gemfibrozil" }
+  },
+  {
+    "drug1": { "brand": "Actos", "generic": "Pioglitazone" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "Avandia", "generic": "Rosiglitazone" },
+    "drug2": { "brand": "Nitrates", "generic": "Nitroglycerin" }
+  },
+  {
+    "drug1": { "brand": "Farxiga", "generic": "Dapagliflozin" },
+    "drug2": { "brand": "Diuretics", "generic": "Hydrochlorothiazide" }
+  },
+  {
+    "drug1": { "brand": "Invokana", "generic": "Canagliflozin" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Jardiance", "generic": "Empagliflozin" },
+    "drug2": { "brand": "Lithium", "generic": "Lithium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Trulicity", "generic": "Dulaglutide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ozempic", "generic": "Semaglutide" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Bydureon", "generic": "Exenatide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Glucovance", "generic": "Metformin + Glyburide" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Prandin", "generic": "Repaglinide" },
+    "drug2": { "brand": "Gemfibrozil", "generic": "Gemfibrozil" }
+  },
+  {
+    "drug1": { "brand": "Humalog", "generic": "Insulin Lispro" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Novonorm", "generic": "Repaglinide" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Metaglip", "generic": "Metformin + Glipizide" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Glynase", "generic": "Glyburide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Vitamin C", "generic": "Ascorbic Acid" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin D3", "generic": "Cholecalciferol" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin E", "generic": "Tocopherol" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Vitamin K", "generic": "Phytonadione" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Calcium", "generic": "Calcium Carbonate" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Magnesium", "generic": "Magnesium Oxide" },
+    "drug2": { "brand": "Tetracycline", "generic": "Tetracycline" }
+  },
+  {
+    "drug1": { "brand": "Iron", "generic": "Ferrous Sulfate" },
+    "drug2": { "brand": "Levodopa", "generic": "Levodopa" }
+  },
+  {
+    "drug1": { "brand": "Zinc", "generic": "Zinc Sulfate" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Fish Oil", "generic": "Omega-3 Fatty Acids" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Ginkgo Biloba", "generic": "Ginkgo Extract" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ginseng", "generic": "Panax Ginseng" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "St. John’s Wort", "generic": "Hypericum perforatum" },
+    "drug2": { "brand": "Sertraline", "generic": "Sertraline" }
+  },
+  {
+    "drug1": { "brand": "Echinacea", "generic": "Echinacea Purpurea" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Melatonin", "generic": "Melatonin" },
+    "drug2": { "brand": "Fluoxetine", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Coenzyme Q10", "generic": "Ubiquinone" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Chromium", "generic": "Chromium Picolinate" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "Selenium", "generic": "Selenium" },
+    "drug2": { "brand": "Cisplatin", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B6", "generic": "Pyridoxine" },
+    "drug2": { "brand": "Levodopa", "generic": "Levodopa" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B12", "generic": "Cyanocobalamin" },
+    "drug2": { "brand": "Chloramphenicol", "generic": "Chloramphenicol" }
+  },
+  {
+    "drug1": { "brand": "Folic Acid", "generic": "Vitamin B9" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate" }
+  },
+
+
+  {
+    "drug1": { "brand": "Niacin", "generic": "Vitamin B3" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Biotin", "generic": "Vitamin B7" },
+    "drug2": { "brand": "Carbamazepine", "generic": "Carbamazepine" }
+  },
+  {
+    "drug1": { "brand": "Beta-Carotene", "generic": "Provitamin A" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Vitamin A", "generic": "Retinol" },
+    "drug2": { "brand": "Doxycycline", "generic": "Doxycycline" }
+  },
+  {
+    "drug1": { "brand": "Vitamin D2", "generic": "Ergocalciferol" },
+    "drug2": { "brand": "Phenytoin", "generic": "Phenytoin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin C", "generic": "Ascorbic Acid" },
+    "drug2": { "brand": "Aluminum Hydroxide", "generic": "Antacid" }
+  },
+  {
+    "drug1": { "brand": "Iron", "generic": "Ferrous Sulfate" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Calcium + Vitamin D", "generic": "Calcium Carbonate + Cholecalciferol" },
+    "drug2": { "brand": "Alendronate", "generic": "Alendronate" }
+  },
+  {
+    "drug1": { "brand": "Magnesium", "generic": "Magnesium Hydroxide" },
+    "drug2": { "brand": "Levofloxacin", "generic": "Levofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Zinc", "generic": "Zinc Gluconate" },
+    "drug2": { "brand": "Penicillamine", "generic": "Penicillamine" }
+  },
+  {
+    "drug1": { "brand": "Ginkgo Biloba", "generic": "Ginkgo Extract" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Garlic Supplement", "generic": "Allicin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ginseng", "generic": "Panax Ginseng" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "St. John’s Wort", "generic": "Hypericum perforatum" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Green Tea Extract", "generic": "Epigallocatechin Gallate" },
+    "drug2": { "brand": "Nadolol", "generic": "Nadolol" }
+  },
+  {
+    "drug1": { "brand": "Kava", "generic": "Piper methysticum" },
+    "drug2": { "brand": "Diazepam", "generic": "Diazepam" }
+  },
+  {
+    "drug1": { "brand": "Valerian Root", "generic": "Valeriana officinalis" },
+    "drug2": { "brand": "Lorazepam", "generic": "Lorazepam" }
+  },
+  {
+    "drug1": { "brand": "Melatonin", "generic": "Melatonin" },
+    "drug2": { "brand": "Nifedipine", "generic": "Nifedipine" }
+  },
+  {
+    "drug1": { "brand": "Coenzyme Q10", "generic": "Ubiquinone" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "Chromium", "generic": "Chromium Picolinate" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+
+
+  {
+    "drug1": { "brand": "Selenium", "generic": "Selenium" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B1", "generic": "Thiamine" },
+    "drug2": { "brand": "Furosemide", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B2", "generic": "Riboflavin" },
+    "drug2": { "brand": "Chlorpromazine", "generic": "Chlorpromazine" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B5", "generic": "Pantothenic Acid" },
+    "drug2": { "brand": "Tetracycline", "generic": "Tetracycline" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B6", "generic": "Pyridoxine" },
+    "drug2": { "brand": "Isoniazid", "generic": "Isoniazid" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B12", "generic": "Cyanocobalamin" },
+    "drug2": { "brand": "Metformin", "generic": "Metformin" }
+  },
+  {
+    "drug1": { "brand": "Folic Acid", "generic": "Vitamin B9" },
+    "drug2": { "brand": "Phenytoin", "generic": "Phenytoin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin C", "generic": "Ascorbic Acid" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Vitamin D", "generic": "Cholecalciferol" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Vitamin E", "generic": "Tocopherol" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Iron", "generic": "Ferrous Fumarate" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Magnesium", "generic": "Magnesium Citrate" },
+    "drug2": { "brand": "Doxycycline", "generic": "Doxycycline" }
+  },
+  {
+    "drug1": { "brand": "Calcium", "generic": "Calcium Citrate" },
+    "drug2": { "brand": "Bisphosphonates", "generic": "Alendronate" }
+  },
+  {
+    "drug1": { "brand": "Zinc", "generic": "Zinc Sulfate" },
+    "drug2": { "brand": "Quinolones", "generic": "Levofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Potassium", "generic": "Potassium Chloride" },
+    "drug2": { "brand": "Spironolactone", "generic": "Spironolactone" }
+  },
+  {
+    "drug1": { "brand": "Fish Oil", "generic": "Omega-3 Fatty Acids" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ginkgo Biloba", "generic": "Ginkgo Extract" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Garlic Supplement", "generic": "Allicin" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Ginseng", "generic": "Panax Ginseng" },
+    "drug2": { "brand": "Phenelzine", "generic": "Phenelzine (MAOI)" }
+  },
+  {
+    "drug1": { "brand": "St. John’s Wort", "generic": "Hypericum perforatum" },
+    "drug2": { "brand": "Oral Contraceptives", "generic": "Ethinylestradiol" }
+  },
+
+
+  {
+    "drug1": { "brand": "Valerian Root", "generic": "Valeriana officinalis" },
+    "drug2": { "brand": "Barbiturates", "generic": "Phenobarbital" }
+  },
+  {
+    "drug1": { "brand": "Kava", "generic": "Piper methysticum" },
+    "drug2": { "brand": "Clonazepam", "generic": "Clonazepam" }
+  },
+  {
+    "drug1": { "brand": "Green Tea Extract", "generic": "Epigallocatechin Gallate" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Soy Isoflavones", "generic": "Isoflavones" },
+    "drug2": { "brand": "Tamoxifen", "generic": "Tamoxifen" }
+  },
+  {
+    "drug1": { "brand": "Milk Thistle", "generic": "Silymarin" },
+    "drug2": { "brand": "Atorvastatin", "generic": "Atorvastatin" }
+  },
+  {
+    "drug1": { "brand": "Echinacea", "generic": "Echinacea Purpurea" },
+    "drug2": { "brand": "Tacrolimus", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Chamomile", "generic": "Matricaria recutita" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Saw Palmetto", "generic": "Serenoa repens" },
+    "drug2": { "brand": "Finasteride", "generic": "Finasteride" }
+  },
+  {
+    "drug1": { "brand": "Glucosamine", "generic": "Glucosamine Sulfate" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Chondroitin", "generic": "Chondroitin Sulfate" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Alpha-Lipoic Acid", "generic": "Thioctic Acid" },
+    "drug2": { "brand": "Cisplatin", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Carnitine", "generic": "L-Carnitine" },
+    "drug2": { "brand": "Valproic Acid", "generic": "Valproic Acid" }
+  },
+  {
+    "drug1": { "brand": "Probiotics", "generic": "Lactobacillus" },
+    "drug2": { "brand": "Antibiotics", "generic": "Amoxicillin" }
+  },
+  {
+    "drug1": { "brand": "Multivitamin", "generic": "Various" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Vitamin C", "generic": "Ascorbic Acid" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin D3", "generic": "Cholecalciferol" },
+    "drug2": { "brand": "Steroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Vitamin K", "generic": "Phytonadione" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Omega-3", "generic": "Fish Oil" },
+    "drug2": { "brand": "Ibuprofen", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Curcumin", "generic": "Turmeric Extract" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Resveratrol", "generic": "Resveratrol" },
+    "drug2": { "brand": "Atorvastatin", "generic": "Atorvastatin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Quercetin", "generic": "Quercetin" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Astaxanthin", "generic": "Astaxanthin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Spirulina", "generic": "Spirulina" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Aloe Vera", "generic": "Aloe Extract" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Licorice Root", "generic": "Glycyrrhiza glabra" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Evening Primrose Oil", "generic": "Oenothera biennis" },
+    "drug2": { "brand": "Phenothiazines", "generic": "Chlorpromazine" }
+  },
+  {
+    "drug1": { "brand": "Fenugreek", "generic": "Trigonella foenum-graecum" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "Ashwagandha", "generic": "Withania somnifera" },
+    "drug2": { "brand": "Sedatives", "generic": "Diazepam" }
+  },
+  {
+    "drug1": { "brand": "Rhodiola", "generic": "Rhodiola rosea" },
+    "drug2": { "brand": "SSRIs", "generic": "Sertraline" }
+  },
+  {
+    "drug1": { "brand": "Maca Root", "generic": "Lepidium meyenii" },
+    "drug2": { "brand": "Oral Contraceptives", "generic": "Ethinylestradiol" }
+  },
+  {
+    "drug1": { "brand": "Bee Pollen", "generic": "Bee Pollen" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Royal Jelly", "generic": "Royal Jelly" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Propolis", "generic": "Propolis" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Chlorella", "generic": "Chlorella vulgaris" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Moringa", "generic": "Moringa oleifera" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Grapefruit Extract", "generic": "Naringin" },
+    "drug2": { "brand": "Atorvastatin", "generic": "Atorvastatin" }
+  },
+  {
+    "drug1": { "brand": "Cranberry Extract", "generic": "Vaccinium macrocarpon" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Pomegranate Extract", "generic": "Punica granatum" },
+    "drug2": { "brand": "ACE inhibitors", "generic": "Enalapril" }
+  },
+  {
+    "drug1": { "brand": "Alpha-Lipoic Acid", "generic": "Thioctic Acid" },
+    "drug2": { "brand": "Thyroid Hormones", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Collagen Supplement", "generic": "Hydrolyzed Collagen" },
+    "drug2": { "brand": "Tetracyclines", "generic": "Doxycycline" }
+  },
+
+
+  {
+    "drug1": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Clotrimazole Cream", "generic": "Clotrimazole" },
+    "drug2": { "brand": "Betamethasone Cream", "generic": "Betamethasone" }
+  },
+  {
+    "drug1": { "brand": "Mupirocin Ointment", "generic": "Mupirocin" },
+    "drug2": { "brand": "Neomycin Cream", "generic": "Neomycin" }
+  },
+  {
+    "drug1": { "brand": "Fusidic Acid Cream", "generic": "Fusidic Acid" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Tretinoin Cream", "generic": "Tretinoin" },
+    "drug2": { "brand": "Hydroquinone Cream", "generic": "Hydroquinone" }
+  },
+  {
+    "drug1": { "brand": "Adapalene Gel", "generic": "Adapalene" },
+    "drug2": { "brand": "Clindamycin Gel", "generic": "Clindamycin" }
+  },
+  {
+    "drug1": { "brand": "Metronidazole Gel", "generic": "Metronidazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Pimecrolimus Cream", "generic": "Pimecrolimus" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Salicylic Acid Cream", "generic": "Salicylic Acid" },
+    "drug2": { "brand": "Tretinoin Cream", "generic": "Tretinoin" }
+  },
+  {
+    "drug1": { "brand": "Benzoyl Peroxide Gel", "generic": "Benzoyl Peroxide" },
+    "drug2": { "brand": "Adapalene Gel", "generic": "Adapalene" }
+  },
+  {
+    "drug1": { "brand": "Silver Sulfadiazine Cream", "generic": "Silver Sulfadiazine" },
+    "drug2": { "brand": "Sulfonamides", "generic": "Sulfamethoxazole" }
+  },
+  {
+    "drug1": { "brand": "Triamcinolone Cream", "generic": "Triamcinolone" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Betamethasone Cream", "generic": "Betamethasone" },
+    "drug2": { "brand": "Clotrimazole Cream", "generic": "Clotrimazole" }
+  },
+  {
+    "drug1": { "brand": "Calcipotriol Cream", "generic": "Calcipotriol" },
+    "drug2": { "brand": "Betamethasone Cream", "generic": "Betamethasone" }
+  },
+  {
+    "drug1": { "brand": "Coal Tar Ointment", "generic": "Coal Tar" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Azelaic Acid Cream", "generic": "Azelaic Acid" },
+    "drug2": { "brand": "Tretinoin Cream", "generic": "Tretinoin" }
+  },
+  {
+    "drug1": { "brand": "Hydrocortisone Butyrate Cream", "generic": "Hydrocortisone Butyrate" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Mometasone Furoate Cream", "generic": "Mometasone" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Erythromycin Gel", "generic": "Erythromycin" },
+    "drug2": { "brand": "Tretinoin Cream", "generic": "Tretinoin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Clobetasol Propionate Cream", "generic": "Clobetasol" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Halobetasol Cream", "generic": "Halobetasol" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Fluocinonide Cream", "generic": "Fluocinonide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Desonide Cream", "generic": "Desonide" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Diflucortolone Cream", "generic": "Diflucortolone" },
+    "drug2": { "brand": "Ciclosporin", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Hydroquinone Cream", "generic": "Hydroquinone" },
+    "drug2": { "brand": "Tretinoin Cream", "generic": "Tretinoin" }
+  },
+  {
+    "drug1": { "brand": "Urea Cream", "generic": "Urea" },
+    "drug2": { "brand": "Topical Steroids", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Calamine Lotion", "generic": "Zinc Oxide + Ferric Oxide" },
+    "drug2": { "brand": "Topical Antihistamines", "generic": "Diphenhydramine" }
+  },
+  {
+    "drug1": { "brand": "Neomycin + Bacitracin Ointment", "generic": "Neomycin + Bacitracin" },
+    "drug2": { "brand": "Polymyxin B", "generic": "Polymyxin B" }
+  },
+  {
+    "drug1": { "brand": "Clindamycin Lotion", "generic": "Clindamycin" },
+    "drug2": { "brand": "Benzoyl Peroxide Gel", "generic": "Benzoyl Peroxide" }
+  },
+  {
+    "drug1": { "brand": "Retinol Cream", "generic": "Vitamin A (Retinol)" },
+    "drug2": { "brand": "Hydroquinone Cream", "generic": "Hydroquinone" }
+  },
+  {
+    "drug1": { "brand": "Sulfur Ointment", "generic": "Sulfur" },
+    "drug2": { "brand": "Sodium Sulfacetamide", "generic": "Sodium Sulfacetamide" }
+  },
+  {
+    "drug1": { "brand": "Capsaicin Cream", "generic": "Capsaicin" },
+    "drug2": { "brand": "Topical Lidocaine", "generic": "Lidocaine" }
+  },
+  {
+    "drug1": { "brand": "Benzocaine Cream", "generic": "Benzocaine" },
+    "drug2": { "brand": "Chlorhexidine", "generic": "Chlorhexidine" }
+  },
+  {
+    "drug1": { "brand": "Ketoprofen Gel", "generic": "Ketoprofen" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Diclofenac Gel", "generic": "Diclofenac" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Lidocaine Gel", "generic": "Lidocaine" },
+    "drug2": { "brand": "Class I Antiarrhythmics", "generic": "Mexiletine" }
+  },
+  {
+    "drug1": { "brand": "Pramoxine Cream", "generic": "Pramoxine" },
+    "drug2": { "brand": "Topical Corticosteroids", "generic": "Triamcinolone" }
+  },
+  {
+    "drug1": { "brand": "Nystatin Cream", "generic": "Nystatin" },
+    "drug2": { "brand": "Clotrimazole Cream", "generic": "Clotrimazole" }
+  },
+  {
+    "drug1": { "brand": "Terbinafine Cream", "generic": "Terbinafine" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+
+
+  {
+    "drug1": { "brand": "Oxiconazole Cream", "generic": "Oxiconazole" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Econazole Cream", "generic": "Econazole" },
+    "drug2": { "brand": "Betamethasone Cream", "generic": "Betamethasone" }
+  },
+  {
+    "drug1": { "brand": "Ketoconazole Shampoo", "generic": "Ketoconazole" },
+    "drug2": { "brand": "Topical Steroids", "generic": "Clobetasol" }
+  },
+  {
+    "drug1": { "brand": "Amorolfine Cream", "generic": "Amorolfine" },
+    "drug2": { "brand": "Corticosteroid Creams", "generic": "Triamcinolone" }
+  },
+  {
+    "drug1": { "brand": "Ciclopirox Cream", "generic": "Ciclopirox" },
+    "drug2": { "brand": "Topical Antibiotics", "generic": "Fusidic Acid" }
+  },
+  {
+    "drug1": { "brand": "Gentamicin Cream", "generic": "Gentamicin" },
+    "drug2": { "brand": "Betamethasone Cream", "generic": "Betamethasone" }
+  },
+  {
+    "drug1": { "brand": "Tazarotene Cream", "generic": "Tazarotene" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Isotretinoin Gel", "generic": "Isotretinoin" },
+    "drug2": { "brand": "Benzoyl Peroxide Gel", "generic": "Benzoyl Peroxide" }
+  },
+  {
+    "drug1": { "brand": "Azelaic Acid Gel", "generic": "Azelaic Acid" },
+    "drug2": { "brand": "Adapalene Gel", "generic": "Adapalene" }
+  },
+  {
+    "drug1": { "brand": "Dapsone Gel", "generic": "Dapsone" },
+    "drug2": { "brand": "Benzoyl Peroxide Gel", "generic": "Benzoyl Peroxide" }
+  },
+  {
+    "drug1": { "brand": "Fluorouracil Cream", "generic": "Fluorouracil" },
+    "drug2": { "brand": "Imiquimod Cream", "generic": "Imiquimod" }
+  },
+  {
+    "drug1": { "brand": "Imiquimod Cream", "generic": "Imiquimod" },
+    "drug2": { "brand": "Topical Steroids", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Calcipotriol Cream", "generic": "Calcipotriol" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Coal Tar Shampoo", "generic": "Coal Tar" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Podophyllotoxin Cream", "generic": "Podophyllotoxin" },
+    "drug2": { "brand": "Imiquimod Cream", "generic": "Imiquimod" }
+  },
+  {
+    "drug1": { "brand": "Nitroglycerin Ointment", "generic": "Nitroglycerin" },
+    "drug2": { "brand": "Sildenafil", "generic": "Sildenafil" }
+  },
+  {
+    "drug1": { "brand": "Capsaicin Cream", "generic": "Capsaicin" },
+    "drug2": { "brand": "Amitriptyline", "generic": "Amitriptyline (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Bacitracin Ointment", "generic": "Bacitracin" },
+    "drug2": { "brand": "Neomycin Cream", "generic": "Neomycin" }
+  },
+  {
+    "drug1": { "brand": "Polymyxin B Ointment", "generic": "Polymyxin B" },
+    "drug2": { "brand": "Neomycin Cream", "generic": "Neomycin" }
+  },
+  {
+    "drug1": { "brand": "Miconazole Cream", "generic": "Miconazole" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+
+
+  {
+    "drug1": { "brand": "Nadifloxacin Cream", "generic": "Nadifloxacin" },
+    "drug2": { "brand": "Adapalene Gel", "generic": "Adapalene" }
+  },
+  {
+    "drug1": { "brand": "Retapamulin Ointment", "generic": "Retapamulin" },
+    "drug2": { "brand": "Mupirocin Ointment", "generic": "Mupirocin" }
+  },
+  {
+    "drug1": { "brand": "Sertaconazole Cream", "generic": "Sertaconazole" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Luliconazole Cream", "generic": "Luliconazole" },
+    "drug2": { "brand": "Betamethasone Cream", "generic": "Betamethasone" }
+  },
+  {
+    "drug1": { "brand": "Efinaconazole Solution", "generic": "Efinaconazole" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Triamcinolone" }
+  },
+  {
+    "drug1": { "brand": "Butenafine Cream", "generic": "Butenafine" },
+    "drug2": { "brand": "Hydrocortisone Cream", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Naftifine Gel", "generic": "Naftifine" },
+    "drug2": { "brand": "Clotrimazole Cream", "generic": "Clotrimazole" }
+  },
+  {
+    "drug1": { "brand": "Corticosteroid Cream", "generic": "Fluticasone" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Topical Minoxidil", "generic": "Minoxidil" },
+    "drug2": { "brand": "Doxorubicin", "generic": "Doxorubicin (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Dithranol Cream", "generic": "Dithranol" },
+    "drug2": { "brand": "Calcipotriol Cream", "generic": "Calcipotriol" }
+  },
+  {
+    "drug1": { "brand": "Ichthammol Ointment", "generic": "Ammonium Bituminosulfonate" },
+    "drug2": { "brand": "Topical Steroids", "generic": "Clobetasol" }
+  },
+  {
+    "drug1": { "brand": "Phenol Ointment", "generic": "Phenol" },
+    "drug2": { "brand": "Lidocaine Cream", "generic": "Lidocaine" }
+  },
+  {
+    "drug1": { "brand": "Resorcinol Cream", "generic": "Resorcinol" },
+    "drug2": { "brand": "Tretinoin Cream", "generic": "Tretinoin" }
+  },
+  {
+    "drug1": { "brand": "Sulfur Cream", "generic": "Sulfur" },
+    "drug2": { "brand": "Benzoyl Peroxide Gel", "generic": "Benzoyl Peroxide" }
+  },
+  {
+    "drug1": { "brand": "Topical Dexamethasone", "generic": "Dexamethasone" },
+    "drug2": { "brand": "Ciclosporin", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Phenylephrine Cream", "generic": "Phenylephrine" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Hydrocortisone Valerate Cream", "generic": "Hydrocortisone Valerate" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone Cream", "generic": "Beclomethasone" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Diflorasone Diacetate Cream", "generic": "Diflorasone" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Flurandrenolide Cream", "generic": "Flurandrenolide" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+
+
+  {
+    "drug1": { "brand": "Halometasone Cream", "generic": "Halometasone" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Diflucortolone Valerate Cream", "generic": "Diflucortolone" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Fluocinolone Acetonide Cream", "generic": "Fluocinolone" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Alclometasone Dipropionate Cream", "generic": "Alclometasone" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Amcinonide Cream", "generic": "Amcinonide" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Desoximetasone Cream", "generic": "Desoximetasone" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Fluocinoline Cream", "generic": "Fluocinoline" },
+    "drug2": { "brand": "Adapalene Gel", "generic": "Adapalene" }
+  },
+  {
+    "drug1": { "brand": "Hydrocortisone Aceponate Cream", "generic": "Hydrocortisone Aceponate" },
+    "drug2": { "brand": "Clotrimazole Cream", "generic": "Clotrimazole" }
+  },
+  {
+    "drug1": { "brand": "Methylprednisolone Aceponate Cream", "generic": "Methylprednisolone Aceponate" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Prednicarbate Cream", "generic": "Prednicarbate" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Ulobetasol Cream", "generic": "Ulobetasol" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Hydrocortisone 17-butyrate Cream", "generic": "Hydrocortisone 17-butyrate" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Clocortolone Pivalate Cream", "generic": "Clocortolone Pivalate" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Diflorasone Diacetate Cream", "generic": "Diflorasone" },
+    "drug2": { "brand": "Adapalene Gel", "generic": "Adapalene" }
+  },
+  {
+    "drug1": { "brand": "Fluprednidene Cream", "generic": "Fluprednidene" },
+    "drug2": { "brand": "Ketoconazole Cream", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Halcinonide Cream", "generic": "Halcinonide" },
+    "drug2": { "brand": "Ciclosporin", "generic": "Cyclosporine (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Difluprednate Cream", "generic": "Difluprednate" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate (systemic)" }
+  },
+  {
+    "drug1": { "brand": "Fluorometholone Ointment", "generic": "Fluorometholone" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Hydrocortisone 21-acetate Cream", "generic": "Hydrocortisone 21-acetate" },
+    "drug2": { "brand": "Clotrimazole Cream", "generic": "Clotrimazole" }
+  },
+  {
+    "drug1": { "brand": "Betamethasone Dipropionate Cream", "generic": "Betamethasone Dipropionate" },
+    "drug2": { "brand": "Tacrolimus Ointment", "generic": "Tacrolimus" }
+  },
+
+
+  {
+    "drug1": { "brand": "Heparin Injection", "generic": "Heparin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Insulin Injection", "generic": "Insulin" },
+    "drug2": { "brand": "Propranolol", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Morphine Injection", "generic": "Morphine" },
+    "drug2": { "brand": "Diazepam", "generic": "Diazepam" }
+  },
+  {
+    "drug1": { "brand": "Furosemide Injection", "generic": "Furosemide" },
+    "drug2": { "brand": "Gentamicin Injection", "generic": "Gentamicin" }
+  },
+  {
+    "drug1": { "brand": "Ceftriaxone Injection", "generic": "Ceftriaxone" },
+    "drug2": { "brand": "Calcium Gluconate Injection", "generic": "Calcium Gluconate" }
+  },
+  {
+    "drug1": { "brand": "Vancomycin Injection", "generic": "Vancomycin" },
+    "drug2": { "brand": "Gentamicin Injection", "generic": "Gentamicin" }
+  },
+  {
+    "drug1": { "brand": "Amphotericin B Injection", "generic": "Amphotericin B" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Methotrexate Injection", "generic": "Methotrexate" },
+    "drug2": { "brand": "Trimethoprim", "generic": "Trimethoprim" }
+  },
+  {
+    "drug1": { "brand": "Cisplatin Injection", "generic": "Cisplatin" },
+    "drug2": { "brand": "Paclitaxel Injection", "generic": "Paclitaxel" }
+  },
+  {
+    "drug1": { "brand": "Cyclophosphamide Injection", "generic": "Cyclophosphamide" },
+    "drug2": { "brand": "Doxorubicin Injection", "generic": "Doxorubicin" }
+  },
+  {
+    "drug1": { "brand": "Doxorubicin Injection", "generic": "Doxorubicin" },
+    "drug2": { "brand": "Trastuzumab Injection", "generic": "Trastuzumab" }
+  },
+  {
+    "drug1": { "brand": "Trastuzumab Injection", "generic": "Trastuzumab" },
+    "drug2": { "brand": "Paclitaxel Injection", "generic": "Paclitaxel" }
+  },
+  {
+    "drug1": { "brand": "Erythromycin Injection", "generic": "Erythromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Clindamycin Injection", "generic": "Clindamycin" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Metronidazole Injection", "generic": "Metronidazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Chloramphenicol Injection", "generic": "Chloramphenicol" },
+    "drug2": { "brand": "Cyclophosphamide Injection", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Phenytoin Injection", "generic": "Phenytoin" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Diazepam Injection", "generic": "Diazepam" },
+    "drug2": { "brand": "Morphine Injection", "generic": "Morphine" }
+  },
+  {
+    "drug1": { "brand": "Midazolam Injection", "generic": "Midazolam" },
+    "drug2": { "brand": "Fentanyl Injection", "generic": "Fentanyl" }
+  },
+  {
+    "drug1": { "brand": "Propofol Injection", "generic": "Propofol" },
+    "drug2": { "brand": "Fentanyl Injection", "generic": "Fentanyl" }
+  },
+
+
+  {
+    "drug1": { "brand": "Epinephrine Injection", "generic": "Epinephrine" },
+    "drug2": { "brand": "Propranolol", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Norepinephrine Injection", "generic": "Norepinephrine" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Phenelzine" }
+  },
+  {
+    "drug1": { "brand": "Dopamine Injection", "generic": "Dopamine" },
+    "drug2": { "brand": "Haloperidol Injection", "generic": "Haloperidol" }
+  },
+  {
+    "drug1": { "brand": "Dobutamine Injection", "generic": "Dobutamine" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Atenolol" }
+  },
+  {
+    "drug1": { "brand": "Magnesium Sulfate Injection", "generic": "Magnesium Sulfate" },
+    "drug2": { "brand": "Calcium Gluconate Injection", "generic": "Calcium Gluconate" }
+  },
+  {
+    "drug1": { "brand": "Calcium Chloride Injection", "generic": "Calcium Chloride" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Potassium Chloride Injection", "generic": "Potassium Chloride" },
+    "drug2": { "brand": "Spironolactone", "generic": "Spironolactone" }
+  },
+  {
+    "drug1": { "brand": "Iron Sucrose Injection", "generic": "Iron Sucrose" },
+    "drug2": { "brand": "Ceftriaxone Injection", "generic": "Ceftriaxone" }
+  },
+  {
+    "drug1": { "brand": "Erythropoietin Injection", "generic": "Epoetin Alfa" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Filgrastim Injection", "generic": "Filgrastim" },
+    "drug2": { "brand": "Lithium", "generic": "Lithium Carbonate" }
+  },
+  {
+    "drug1": { "brand": "Interferon-alpha Injection", "generic": "Interferon Alfa" },
+    "drug2": { "brand": "Theophylline", "generic": "Theophylline" }
+  },
+  {
+    "drug1": { "brand": "Interferon-beta Injection", "generic": "Interferon Beta" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Rituximab Injection", "generic": "Rituximab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Infliximab Injection", "generic": "Infliximab" },
+    "drug2": { "brand": "Azathioprine", "generic": "Azathioprine" }
+  },
+  {
+    "drug1": { "brand": "Adalimumab Injection", "generic": "Adalimumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Etanercept Injection", "generic": "Etanercept" },
+    "drug2": { "brand": "Cyclophosphamide Injection", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Bevacizumab Injection", "generic": "Bevacizumab" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Cetuximab Injection", "generic": "Cetuximab" },
+    "drug2": { "brand": "Irinotecan Injection", "generic": "Irinotecan" }
+  },
+  {
+    "drug1": { "brand": "Nivolumab Injection", "generic": "Nivolumab" },
+    "drug2": { "brand": "Ipilimumab Injection", "generic": "Ipilimumab" }
+  },
+  {
+    "drug1": { "brand": "Pembrolizumab Injection", "generic": "Pembrolizumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+
+
+  {
+    "drug1": { "brand": "Gentamicin Injection", "generic": "Gentamicin" },
+    "drug2": { "brand": "Furosemide Injection", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Amikacin Injection", "generic": "Amikacin" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Streptomycin Injection", "generic": "Streptomycin" },
+    "drug2": { "brand": "Ethambutol", "generic": "Ethambutol" }
+  },
+  {
+    "drug1": { "brand": "Kanamycin Injection", "generic": "Kanamycin" },
+    "drug2": { "brand": "Amphotericin B Injection", "generic": "Amphotericin B" }
+  },
+  {
+    "drug1": { "brand": "Linezolid Injection", "generic": "Linezolid" },
+    "drug2": { "brand": "Sertraline", "generic": "Sertraline" }
+  },
+  {
+    "drug1": { "brand": "Daptomycin Injection", "generic": "Daptomycin" },
+    "drug2": { "brand": "Statins", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Meropenem Injection", "generic": "Meropenem" },
+    "drug2": { "brand": "Valproic Acid", "generic": "Valproic Acid" }
+  },
+  {
+    "drug1": { "brand": "Imipenem Injection", "generic": "Imipenem" },
+    "drug2": { "brand": "Ganciclovir", "generic": "Ganciclovir" }
+  },
+  {
+    "drug1": { "brand": "Cefepime Injection", "generic": "Cefepime" },
+    "drug2": { "brand": "Aminoglycosides", "generic": "Gentamicin" }
+  },
+  {
+    "drug1": { "brand": "Tigecycline Injection", "generic": "Tigecycline" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Colistin Injection", "generic": "Colistin" },
+    "drug2": { "brand": "Neuromuscular Blockers", "generic": "Vecuronium" }
+  },
+  {
+    "drug1": { "brand": "Azithromycin Injection", "generic": "Azithromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Clarithromycin Injection", "generic": "Clarithromycin" },
+    "drug2": { "brand": "Statins", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Amphotericin B Injection", "generic": "Amphotericin B" },
+    "drug2": { "brand": "Vancomycin Injection", "generic": "Vancomycin" }
+  },
+  {
+    "drug1": { "brand": "Voriconazole Injection", "generic": "Voriconazole" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Caspofungin Injection", "generic": "Caspofungin" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Fluconazole Injection", "generic": "Fluconazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Itraconazole Injection", "generic": "Itraconazole" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Posaconazole Injection", "generic": "Posaconazole" },
+    "drug2": { "brand": "Tacrolimus", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Micafungin Injection", "generic": "Micafungin" },
+    "drug2": { "brand": "Sirolimus", "generic": "Sirolimus" }
+  },
+
+
+  {
+    "drug1": { "brand": "Paclitaxel Injection", "generic": "Paclitaxel" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Docetaxel Injection", "generic": "Docetaxel" },
+    "drug2": { "brand": "Cyclophosphamide Injection", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Gemcitabine Injection", "generic": "Gemcitabine" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Irinotecan Injection", "generic": "Irinotecan" },
+    "drug2": { "brand": "Fluorouracil Injection", "generic": "5-Fluorouracil" }
+  },
+  {
+    "drug1": { "brand": "Topotecan Injection", "generic": "Topotecan" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Bleomycin Injection", "generic": "Bleomycin" },
+    "drug2": { "brand": "Doxorubicin Injection", "generic": "Doxorubicin" }
+  },
+  {
+    "drug1": { "brand": "Vincristine Injection", "generic": "Vincristine" },
+    "drug2": { "brand": "Itraconazole Injection", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Vinblastine Injection", "generic": "Vinblastine" },
+    "drug2": { "brand": "Phenytoin Injection", "generic": "Phenytoin" }
+  },
+  {
+    "drug1": { "brand": "Etoposide Injection", "generic": "Etoposide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ifosfamide Injection", "generic": "Ifosfamide" },
+    "drug2": { "brand": "Cisplatin Injection", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Melphalan Injection", "generic": "Melphalan" },
+    "drug2": { "brand": "Cyclophosphamide Injection", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Thiotepa Injection", "generic": "Thiotepa" },
+    "drug2": { "brand": "Busulfan Injection", "generic": "Busulfan" }
+  },
+  {
+    "drug1": { "brand": "Bortezomib Injection", "generic": "Bortezomib" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Carfilzomib Injection", "generic": "Carfilzomib" },
+    "drug2": { "brand": "Dexamethasone", "generic": "Dexamethasone" }
+  },
+  {
+    "drug1": { "brand": "Lenalidomide Injection", "generic": "Lenalidomide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Thalidomide Injection", "generic": "Thalidomide" },
+    "drug2": { "brand": "Dexamethasone", "generic": "Dexamethasone" }
+  },
+  {
+    "drug1": { "brand": "Alemtuzumab Injection", "generic": "Alemtuzumab" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Obinutuzumab Injection", "generic": "Obinutuzumab" },
+    "drug2": { "brand": "Bendamustine Injection", "generic": "Bendamustine" }
+  },
+  {
+    "drug1": { "brand": "Daratumumab Injection", "generic": "Daratumumab" },
+    "drug2": { "brand": "Lenalidomide Injection", "generic": "Lenalidomide" }
+  },
+  {
+    "drug1": { "brand": "Elotuzumab Injection", "generic": "Elotuzumab" },
+    "drug2": { "brand": "Dexamethasone", "generic": "Dexamethasone" }
+  },
+
+
+  {
+    "drug1": { "brand": "Tocilizumab Injection", "generic": "Tocilizumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Sarilumab Injection", "generic": "Sarilumab" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Anakinra Injection", "generic": "Anakinra" },
+    "drug2": { "brand": "Etanercept Injection", "generic": "Etanercept" }
+  },
+  {
+    "drug1": { "brand": "Canakinumab Injection", "generic": "Canakinumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Secukinumab Injection", "generic": "Secukinumab" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Ixekizumab Injection", "generic": "Ixekizumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Ustekinumab Injection", "generic": "Ustekinumab" },
+    "drug2": { "brand": "Azathioprine", "generic": "Azathioprine" }
+  },
+  {
+    "drug1": { "brand": "Guselkumab Injection", "generic": "Guselkumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Risankizumab Injection", "generic": "Risankizumab" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Tildrakizumab Injection", "generic": "Tildrakizumab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Certolizumab Pegol Injection", "generic": "Certolizumab Pegol" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Golimumab Injection", "generic": "Golimumab" },
+    "drug2": { "brand": "Azathioprine", "generic": "Azathioprine" }
+  },
+  {
+    "drug1": { "brand": "Natalizumab Injection", "generic": "Natalizumab" },
+    "drug2": { "brand": "Interferon-beta Injection", "generic": "Interferon Beta" }
+  },
+  {
+    "drug1": { "brand": "Ocrelizumab Injection", "generic": "Ocrelizumab" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Alemtuzumab Injection", "generic": "Alemtuzumab" },
+    "drug2": { "brand": "Cyclophosphamide Injection", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Ofatumumab Injection", "generic": "Ofatumumab" },
+    "drug2": { "brand": "Chlorambucil", "generic": "Chlorambucil" }
+  },
+  {
+    "drug1": { "brand": "Blinatumomab Injection", "generic": "Blinatumomab" },
+    "drug2": { "brand": "Methotrexate Injection", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Inotuzumab Ozogamicin Injection", "generic": "Inotuzumab Ozogamicin" },
+    "drug2": { "brand": "Cytarabine", "generic": "Cytarabine" }
+  },
+  {
+    "drug1": { "brand": "Polatuzumab Vedotin Injection", "generic": "Polatuzumab Vedotin" },
+    "drug2": { "brand": "Bendamustine Injection", "generic": "Bendamustine" }
+  },
+  {
+    "drug1": { "brand": "Brentuximab Vedotin Injection", "generic": "Brentuximab Vedotin" },
+    "drug2": { "brand": "Bleomycin Injection", "generic": "Bleomycin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Paracetamol Syrup", "generic": "Paracetamol" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ibuprofen Syrup", "generic": "Ibuprofen" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Diphenhydramine Syrup", "generic": "Diphenhydramine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Dextromethorphan Syrup", "generic": "Dextromethorphan" },
+    "drug2": { "brand": "Fluoxetine", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Guaifenesin Syrup", "generic": "Guaifenesin" },
+    "drug2": { "brand": "Codeine Syrup", "generic": "Codeine" }
+  },
+  {
+    "drug1": { "brand": "Codeine Syrup", "generic": "Codeine" },
+    "drug2": { "brand": "Diazepam", "generic": "Diazepam" }
+  },
+  {
+    "drug1": { "brand": "Promethazine Syrup", "generic": "Promethazine" },
+    "drug2": { "brand": "Opioids", "generic": "Morphine" }
+  },
+  {
+    "drug1": { "brand": "Cetirizine Syrup", "generic": "Cetirizine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Loratadine Syrup", "generic": "Loratadine" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Montelukast Syrup", "generic": "Montelukast" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Salbutamol Syrup", "generic": "Salbutamol" },
+    "drug2": { "brand": "Propranolol", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Theophylline Syrup", "generic": "Theophylline" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Ambroxol Syrup", "generic": "Ambroxol" },
+    "drug2": { "brand": "Erythromycin", "generic": "Erythromycin" }
+  },
+  {
+    "drug1": { "brand": "Domperidone Syrup", "generic": "Domperidone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Ranitidine Syrup", "generic": "Ranitidine" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Omeprazole Suspension", "generic": "Omeprazole" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Lansoprazole Suspension", "generic": "Lansoprazole" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Sucralfate Suspension", "generic": "Sucralfate" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Magnesium Hydroxide Suspension", "generic": "Magnesium Hydroxide" },
+    "drug2": { "brand": "Tetracycline", "generic": "Tetracycline" }
+  },
+  {
+    "drug1": { "brand": "Aluminum Hydroxide Suspension", "generic": "Aluminum Hydroxide" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Calcium Syrup", "generic": "Calcium Carbonate" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Iron Syrup", "generic": "Ferrous Sulfate" },
+    "drug2": { "brand": "Tetracycline", "generic": "Tetracycline" }
+  },
+  {
+    "drug1": { "brand": "Vitamin D Syrup", "generic": "Cholecalciferol" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Vitamin C Syrup", "generic": "Ascorbic Acid" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Vitamin B12 Syrup", "generic": "Cyanocobalamin" },
+    "drug2": { "brand": "Chloramphenicol", "generic": "Chloramphenicol" }
+  },
+  {
+    "drug1": { "brand": "Folic Acid Syrup", "generic": "Folic Acid" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Multivitamin Syrup", "generic": "Vitamins + Minerals" },
+    "drug2": { "brand": "Levothyroxine", "generic": "Levothyroxine" }
+  },
+  {
+    "drug1": { "brand": "Cod Liver Oil Syrup", "generic": "Omega-3 Fatty Acids" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Amlodipine Suspension", "generic": "Amlodipine" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Losartan Suspension", "generic": "Losartan" },
+    "drug2": { "brand": "Ibuprofen", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Metformin Suspension", "generic": "Metformin" },
+    "drug2": { "brand": "Furosemide", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Gliclazide Suspension", "generic": "Gliclazide" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Glimepiride Suspension", "generic": "Glimepiride" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Prednisolone Syrup", "generic": "Prednisolone" },
+    "drug2": { "brand": "Ibuprofen Syrup", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Dexamethasone Syrup", "generic": "Dexamethasone" },
+    "drug2": { "brand": "Phenytoin", "generic": "Phenytoin" }
+  },
+  {
+    "drug1": { "brand": "Hydrocortisone Suspension", "generic": "Hydrocortisone" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Azithromycin Suspension", "generic": "Azithromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Clarithromycin Suspension", "generic": "Clarithromycin" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Amoxicillin Suspension", "generic": "Amoxicillin" },
+    "drug2": { "brand": "Methotrexate", "generic": "Methotrexate" }
+  },
+  {
+    "drug1": { "brand": "Cefixime Suspension", "generic": "Cefixime" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Cefuroxime Suspension", "generic": "Cefuroxime" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Cefpodoxime Suspension", "generic": "Cefpodoxime" },
+    "drug2": { "brand": "Probenecid", "generic": "Probenecid" }
+  },
+  {
+    "drug1": { "brand": "Erythromycin Suspension", "generic": "Erythromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Clindamycin Suspension", "generic": "Clindamycin" },
+    "drug2": { "brand": "Cisplatin", "generic": "Cisplatin" }
+  },
+  {
+    "drug1": { "brand": "Metronidazole Suspension", "generic": "Metronidazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Chloramphenicol Suspension", "generic": "Chloramphenicol" },
+    "drug2": { "brand": "Cyclophosphamide", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Roxithromycin Suspension", "generic": "Roxithromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Azithromycin Syrup", "generic": "Azithromycin" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Clarithromycin Syrup", "generic": "Clarithromycin" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Ofloxacin Suspension", "generic": "Ofloxacin" },
+    "drug2": { "brand": "Tizanidine", "generic": "Tizanidine" }
+  },
+  {
+    "drug1": { "brand": "Ciprofloxacin Suspension", "generic": "Ciprofloxacin" },
+    "drug2": { "brand": "Theophylline", "generic": "Theophylline" }
+  },
+  {
+    "drug1": { "brand": "Levofloxacin Suspension", "generic": "Levofloxacin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Moxifloxacin Suspension", "generic": "Moxifloxacin" },
+    "drug2": { "brand": "Amiodarone", "generic": "Amiodarone" }
+  },
+  {
+    "drug1": { "brand": "Doxycycline Suspension", "generic": "Doxycycline" },
+    "drug2": { "brand": "Isotretinoin", "generic": "Isotretinoin" }
+  },
+  {
+    "drug1": { "brand": "Minocycline Suspension", "generic": "Minocycline" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Tetracycline Suspension", "generic": "Tetracycline" },
+    "drug2": { "brand": "Penicillin", "generic": "Penicillin" }
+  },
+  {
+    "drug1": { "brand": "Amphotericin B Suspension", "generic": "Amphotericin B" },
+    "drug2": { "brand": "Flucytosine", "generic": "Flucytosine" }
+  },
+  {
+    "drug1": { "brand": "Nystatin Suspension", "generic": "Nystatin" },
+    "drug2": { "brand": "Clotrimazole", "generic": "Clotrimazole" }
+  },
+  {
+    "drug1": { "brand": "Fluconazole Suspension", "generic": "Fluconazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Itraconazole Suspension", "generic": "Itraconazole" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  }
+,
+
+  {
+    "drug1": { "brand": "Posaconazole Suspension", "generic": "Posaconazole" },
+    "drug2": { "brand": "Tacrolimus", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Ketoconazole Suspension", "generic": "Ketoconazole" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Voriconazole Suspension", "generic": "Voriconazole" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Albendazole Suspension", "generic": "Albendazole" },
+    "drug2": { "brand": "Dexamethasone", "generic": "Dexamethasone" }
+  },
+  {
+    "drug1": { "brand": "Mebendazole Suspension", "generic": "Mebendazole" },
+    "drug2": { "brand": "Cimetidine", "generic": "Cimetidine" }
+  },
+  {
+    "drug1": { "brand": "Praziquantel Suspension", "generic": "Praziquantel" },
+    "drug2": { "brand": "Carbamazepine", "generic": "Carbamazepine" }
+  },
+  {
+    "drug1": { "brand": "Levamisole Syrup", "generic": "Levamisole" },
+    "drug2": { "brand": "Phenytoin", "generic": "Phenytoin" }
+  },
+  {
+    "drug1": { "brand": "Chloroquine Syrup", "generic": "Chloroquine" },
+    "drug2": { "brand": "Mefloquine", "generic": "Mefloquine" }
+  },
+  {
+    "drug1": { "brand": "Quinine Syrup", "generic": "Quinine" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Artemether Suspension", "generic": "Artemether" },
+    "drug2": { "brand": "Lumefantrine", "generic": "Lumefantrine" }
+  },
+  {
+    "drug1": { "brand": "Ribavirin Syrup", "generic": "Ribavirin" },
+    "drug2": { "brand": "Zidovudine", "generic": "Zidovudine" }
+  },
+  {
+    "drug1": { "brand": "Oseltamivir Suspension", "generic": "Oseltamivir" },
+    "drug2": { "brand": "Probenecid", "generic": "Probenecid" }
+  },
+  {
+    "drug1": { "brand": "Lamivudine Syrup", "generic": "Lamivudine" },
+    "drug2": { "brand": "Zidovudine", "generic": "Zidovudine" }
+  },
+  {
+    "drug1": { "brand": "Nevirapine Suspension", "generic": "Nevirapine" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Efavirenz Suspension", "generic": "Efavirenz" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Lopinavir/Ritonavir Syrup", "generic": "Lopinavir + Ritonavir" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Saquinavir Suspension", "generic": "Saquinavir" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Atazanavir Suspension", "generic": "Atazanavir" },
+    "drug2": { "brand": "Proton Pump Inhibitors", "generic": "Omeprazole" }
+  },
+  {
+    "drug1": { "brand": "Darunavir Suspension", "generic": "Darunavir" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Raltegravir Suspension", "generic": "Raltegravir" },
+    "drug2": { "brand": "Aluminum Hydroxide", "generic": "Aluminum Hydroxide" }
+  },
+
+
+  {
+    "drug1": { "brand": "Dolutegravir Suspension", "generic": "Dolutegravir" },
+    "drug2": { "brand": "Metformin", "generic": "Metformin" }
+  },
+  {
+    "drug1": { "brand": "Elvitegravir Suspension", "generic": "Elvitegravir" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Maraviroc Suspension", "generic": "Maraviroc" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Entecavir Syrup", "generic": "Entecavir" },
+    "drug2": { "brand": "Lamivudine", "generic": "Lamivudine" }
+  },
+  {
+    "drug1": { "brand": "Tenofovir Syrup", "generic": "Tenofovir" },
+    "drug2": { "brand": "Didanosine", "generic": "Didanosine" }
+  },
+  {
+    "drug1": { "brand": "Adefovir Syrup", "generic": "Adefovir" },
+    "drug2": { "brand": "Ibuprofen", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Sofosbuvir Syrup", "generic": "Sofosbuvir" },
+    "drug2": { "brand": "Amiodarone", "generic": "Amiodarone" }
+  },
+  {
+    "drug1": { "brand": "Ledipasvir/Sofosbuvir Syrup", "generic": "Ledipasvir + Sofosbuvir" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Velpatasvir/Sofosbuvir Syrup", "generic": "Velpatasvir + Sofosbuvir" },
+    "drug2": { "brand": "Proton Pump Inhibitors", "generic": "Omeprazole" }
+  },
+  {
+    "drug1": { "brand": "Glecaprevir/Pibrentasvir Syrup", "generic": "Glecaprevir + Pibrentasvir" },
+    "drug2": { "brand": "Atorvastatin", "generic": "Atorvastatin" }
+  },
+  {
+    "drug1": { "brand": "Remdesivir Syrup", "generic": "Remdesivir" },
+    "drug2": { "brand": "Hydroxychloroquine", "generic": "Hydroxychloroquine" }
+  },
+  {
+    "drug1": { "brand": "Favipiravir Syrup", "generic": "Favipiravir" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Zidovudine Syrup", "generic": "Zidovudine" },
+    "drug2": { "brand": "Ganciclovir", "generic": "Ganciclovir" }
+  },
+  {
+    "drug1": { "brand": "Didanosine Syrup", "generic": "Didanosine" },
+    "drug2": { "brand": "Allopurinol", "generic": "Allopurinol" }
+  },
+  {
+    "drug1": { "brand": "Abacavir Syrup", "generic": "Abacavir" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Efavirenz Syrup", "generic": "Efavirenz" },
+    "drug2": { "brand": "St. John’s Wort", "generic": "Hypericum perforatum" }
+  },
+  {
+    "drug1": { "brand": "Nevirapine Syrup", "generic": "Nevirapine" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Raltegravir Syrup", "generic": "Raltegravir" },
+    "drug2": { "brand": "Magnesium Hydroxide", "generic": "Magnesium Hydroxide" }
+  },
+  {
+    "drug1": { "brand": "Atazanavir Syrup", "generic": "Atazanavir" },
+    "drug2": { "brand": "Rifampin", "generic": "Rifampin" }
+  },
+  {
+    "drug1": { "brand": "Darunavir Syrup", "generic": "Darunavir" },
+    "drug2": { "brand": "Carbamazepine", "generic": "Carbamazepine" }
+  },
+
+
+  {
+    "drug1": { "brand": "Timolol Eye Drops", "generic": "Timolol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Latanoprost Eye Drops", "generic": "Latanoprost" },
+    "drug2": { "brand": "NSAIDs", "generic": "Diclofenac" }
+  },
+  {
+    "drug1": { "brand": "Bimatoprost Eye Drops", "generic": "Bimatoprost" },
+    "drug2": { "brand": "Epinephrine", "generic": "Epinephrine" }
+  },
+  {
+    "drug1": { "brand": "Brimonidine Eye Drops", "generic": "Brimonidine" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Phenelzine" }
+  },
+  {
+    "drug1": { "brand": "Dorzolamide Eye Drops", "generic": "Dorzolamide" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Travoprost Eye Drops", "generic": "Travoprost" },
+    "drug2": { "brand": "Steroids", "generic": "Prednisolone" }
+  },
+  {
+    "drug1": { "brand": "Pilocarpine Eye Drops", "generic": "Pilocarpine" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Phenylephrine Eye Drops", "generic": "Phenylephrine" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Tranylcypromine" }
+  },
+  {
+    "drug1": { "brand": "Cyclopentolate Eye Drops", "generic": "Cyclopentolate" },
+    "drug2": { "brand": "Antihistamines", "generic": "Diphenhydramine" }
+  },
+  {
+    "drug1": { "brand": "Tropicamide Eye Drops", "generic": "Tropicamide" },
+    "drug2": { "brand": "Glaucoma Medications", "generic": "Timolol" }
+  },
+  {
+    "drug1": { "brand": "Ofloxacin Eye Drops", "generic": "Ofloxacin" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Dexamethasone" }
+  },
+  {
+    "drug1": { "brand": "Ciprofloxacin Eye Drops", "generic": "Ciprofloxacin" },
+    "drug2": { "brand": "NSAIDs", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Tobramycin Eye Drops", "generic": "Tobramycin" },
+    "drug2": { "brand": "Furosemide", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Gentamicin Eye Drops", "generic": "Gentamicin" },
+    "drug2": { "brand": "Amphotericin B", "generic": "Amphotericin B" }
+  },
+  {
+    "drug1": { "brand": "Chloramphenicol Eye Drops", "generic": "Chloramphenicol" },
+    "drug2": { "brand": "Cyclophosphamide", "generic": "Cyclophosphamide" }
+  },
+  {
+    "drug1": { "brand": "Azithromycin Eye Drops", "generic": "Azithromycin" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ketorolac Eye Drops", "generic": "Ketorolac" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Diclofenac Eye Drops", "generic": "Diclofenac" },
+    "drug2": { "brand": "Prednisolone", "generic": "Prednisolone" }
+  },
+  {
+    "drug1": { "brand": "Flurbiprofen Eye Drops", "generic": "Flurbiprofen" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Prednisolone Eye Drops", "generic": "Prednisolone" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+
+
+  {
+    "drug1": { "brand": "Dexamethasone Eye Drops", "generic": "Dexamethasone" },
+    "drug2": { "brand": "Ketorolac Eye Drops", "generic": "Ketorolac" }
+  },
+  {
+    "drug1": { "brand": "Fluorometholone Eye Drops", "generic": "Fluorometholone" },
+    "drug2": { "brand": "Cyclosporine Eye Drops", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Cyclosporine Eye Drops", "generic": "Cyclosporine" },
+    "drug2": { "brand": "NSAIDs", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Olopatadine Eye Drops", "generic": "Olopatadine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Ketotifen Eye Drops", "generic": "Ketotifen" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Azelastine Nasal Spray", "generic": "Azelastine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone Nasal Spray", "generic": "Fluticasone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Mometasone Nasal Spray", "generic": "Mometasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Budesonide Nasal Spray", "generic": "Budesonide" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone Nasal Spray", "generic": "Beclomethasone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Oxymetazoline Nasal Spray", "generic": "Oxymetazoline" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Phenelzine" }
+  },
+  {
+    "drug1": { "brand": "Xylometazoline Nasal Spray", "generic": "Xylometazoline" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Amitriptyline" }
+  },
+  {
+    "drug1": { "brand": "Naphazoline Eye Drops", "generic": "Naphazoline" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Isocarboxazid" }
+  },
+  {
+    "drug1": { "brand": "Tetrahydrozoline Eye Drops", "generic": "Tetrahydrozoline" },
+    "drug2": { "brand": "Antihypertensives", "generic": "Methyldopa" }
+  },
+  {
+    "drug1": { "brand": "Carboxymethylcellulose Eye Drops", "generic": "Carboxymethylcellulose" },
+    "drug2": { "brand": "Contact Lens Solutions", "generic": "Multipurpose Solution" }
+  },
+  {
+    "drug1": { "brand": "Artificial Tears Eye Drops", "generic": "Hypromellose" },
+    "drug2": { "brand": "Cyclosporine Eye Drops", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Acetylcysteine Eye Drops", "generic": "Acetylcysteine" },
+    "drug2": { "brand": "Aminoglycosides", "generic": "Gentamicin" }
+  },
+  {
+    "drug1": { "brand": "Idoxuridine Eye Drops", "generic": "Idoxuridine" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisolone" }
+  },
+  {
+    "drug1": { "brand": "Ganciclovir Eye Drops", "generic": "Ganciclovir" },
+    "drug2": { "brand": "Zidovudine", "generic": "Zidovudine" }
+  },
+  {
+    "drug1": { "brand": "Trifluridine Eye Drops", "generic": "Trifluridine" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Dexamethasone" }
+  },
+
+
+  {
+    "drug1": { "brand": "Aciclovir Eye Ointment", "generic": "Acyclovir" },
+    "drug2": { "brand": "Cyclosporine Eye Drops", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Foscarnet Eye Drops", "generic": "Foscarnet" },
+    "drug2": { "brand": "Cidofovir", "generic": "Cidofovir" }
+  },
+  {
+    "drug1": { "brand": "Cromolyn Eye Drops", "generic": "Cromolyn Sodium" },
+    "drug2": { "brand": "Steroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Nedocromil Eye Drops", "generic": "Nedocromil" },
+    "drug2": { "brand": "NSAIDs", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Levocabastine Eye Drops", "generic": "Levocabastine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Emedastine Eye Drops", "generic": "Emedastine" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Bepotastine Eye Drops", "generic": "Bepotastine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Azelastine Eye Drops", "generic": "Azelastine" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Alcaftadine Eye Drops", "generic": "Alcaftadine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Epinastine Eye Drops", "generic": "Epinastine" },
+    "drug2": { "brand": "CNS Depressants", "generic": "Diazepam" }
+  },
+  {
+    "drug1": { "brand": "Cyclosporine Ear Drops", "generic": "Cyclosporine" },
+    "drug2": { "brand": "NSAIDs", "generic": "Diclofenac" }
+  },
+  {
+    "drug1": { "brand": "Ofloxacin Ear Drops", "generic": "Ofloxacin" },
+    "drug2": { "brand": "Aminoglycosides", "generic": "Gentamicin" }
+  },
+  {
+    "drug1": { "brand": "Ciprofloxacin Ear Drops", "generic": "Ciprofloxacin" },
+    "drug2": { "brand": "NSAIDs", "generic": "Naproxen" }
+  },
+  {
+    "drug1": { "brand": "Neomycin Ear Drops", "generic": "Neomycin" },
+    "drug2": { "brand": "Loop Diuretics", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Polymyxin B Ear Drops", "generic": "Polymyxin B" },
+    "drug2": { "brand": "Amphotericin B", "generic": "Amphotericin B" }
+  },
+  {
+    "drug1": { "brand": "Clotrimazole Ear Drops", "generic": "Clotrimazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Ketoconazole Ear Drops", "generic": "Ketoconazole" },
+    "drug2": { "brand": "Simvastatin", "generic": "Simvastatin" }
+  },
+  {
+    "drug1": { "brand": "Miconazole Ear Drops", "generic": "Miconazole" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Nystatin Ear Drops", "generic": "Nystatin" },
+    "drug2": { "brand": "Amphotericin B", "generic": "Amphotericin B" }
+  },
+  {
+    "drug1": { "brand": "Boric Acid Ear Drops", "generic": "Boric Acid" },
+    "drug2": { "brand": "Corticosteroids", "generic": "Prednisolone" }
+  },
+
+
+  {
+    "drug1": { "brand": "Hydrocortisone Ear Drops", "generic": "Hydrocortisone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Dexamethasone Ear Drops", "generic": "Dexamethasone" },
+    "drug2": { "brand": "Gentamicin", "generic": "Gentamicin" }
+  },
+  {
+    "drug1": { "brand": "Prednisolone Ear Drops", "generic": "Prednisolone" },
+    "drug2": { "brand": "Ciprofloxacin", "generic": "Ciprofloxacin" }
+  },
+  {
+    "drug1": { "brand": "Fluocinolone Ear Drops", "generic": "Fluocinolone" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone Nasal Spray", "generic": "Beclomethasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Triamcinolone Nasal Spray", "generic": "Triamcinolone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Flunisolide Nasal Spray", "generic": "Flunisolide" },
+    "drug2": { "brand": "CYP3A4 Inhibitors", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Ciclesonide Nasal Spray", "generic": "Ciclesonide" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Desloratadine Syrup", "generic": "Desloratadine" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Levocetirizine Drops", "generic": "Levocetirizine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Diphenhydramine Eye Drops", "generic": "Diphenhydramine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Cetirizine Eye Drops", "generic": "Cetirizine" },
+    "drug2": { "brand": "Theophylline", "generic": "Theophylline" }
+  },
+  {
+    "drug1": { "brand": "Loratadine Eye Drops", "generic": "Loratadine" },
+    "drug2": { "brand": "Erythromycin", "generic": "Erythromycin" }
+  },
+  {
+    "drug1": { "brand": "Montelukast Drops", "generic": "Montelukast" },
+    "drug2": { "brand": "Prednisone", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Saline Nasal Drops", "generic": "Sodium Chloride" },
+    "drug2": { "brand": "Decongestants", "generic": "Oxymetazoline" }
+  },
+  {
+    "drug1": { "brand": "Ipratropium Nasal Spray", "generic": "Ipratropium" },
+    "drug2": { "brand": "Beta Agonists", "generic": "Salbutamol" }
+  },
+  {
+    "drug1": { "brand": "Cromolyn Nasal Spray", "generic": "Cromolyn Sodium" },
+    "drug2": { "brand": "Steroids", "generic": "Prednisone" }
+  },
+  {
+    "drug1": { "brand": "Ketotifen Eye Drops", "generic": "Ketotifen" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Olopatadine Nasal Spray", "generic": "Olopatadine" },
+    "drug2": { "brand": "Alcohol", "generic": "Ethanol" }
+  },
+  {
+    "drug1": { "brand": "Azelastine Eye Drops", "generic": "Azelastine" },
+    "drug2": { "brand": "Sedatives", "generic": "Diazepam" }
+  },
+
+
+  {
+    "drug1": { "brand": "Timolol Eye Drops", "generic": "Timolol" },
+    "drug2": { "brand": "Insulin", "generic": "Insulin" }
+  },
+  {
+    "drug1": { "brand": "Latanoprost Eye Drops", "generic": "Latanoprost" },
+    "drug2": { "brand": "Steroids", "generic": "Dexamethasone" }
+  },
+  {
+    "drug1": { "brand": "Brimonidine Eye Drops", "generic": "Brimonidine" },
+    "drug2": { "brand": "Antidepressants", "generic": "Sertraline" }
+  },
+  {
+    "drug1": { "brand": "Dorzolamide Eye Drops", "generic": "Dorzolamide" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Travoprost Eye Drops", "generic": "Travoprost" },
+    "drug2": { "brand": "NSAIDs", "generic": "Ibuprofen" }
+  },
+  {
+    "drug1": { "brand": "Pilocarpine Eye Drops", "generic": "Pilocarpine" },
+    "drug2": { "brand": "Antipsychotics", "generic": "Haloperidol" }
+  },
+  {
+    "drug1": { "brand": "Phenylephrine Eye Drops", "generic": "Phenylephrine" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Amitriptyline" }
+  },
+  {
+    "drug1": { "brand": "Cyclopentolate Eye Drops", "generic": "Cyclopentolate" },
+    "drug2": { "brand": "Opioids", "generic": "Morphine" }
+  },
+  {
+    "drug1": { "brand": "Tropicamide Eye Drops", "generic": "Tropicamide" },
+    "drug2": { "brand": "Antihistamines", "generic": "Diphenhydramine" }
+  },
+  {
+    "drug1": { "brand": "Ofloxacin Eye Drops", "generic": "Ofloxacin" },
+    "drug2": { "brand": "NSAIDs", "generic": "Ketorolac" }
+  },
+  {
+    "drug1": { "brand": "Ciprofloxacin Ear Drops", "generic": "Ciprofloxacin" },
+    "drug2": { "brand": "Steroids", "generic": "Hydrocortisone" }
+  },
+  {
+    "drug1": { "brand": "Tobramycin Eye Drops", "generic": "Tobramycin" },
+    "drug2": { "brand": "Vancomycin", "generic": "Vancomycin" }
+  },
+  {
+    "drug1": { "brand": "Gentamicin Ear Drops", "generic": "Gentamicin" },
+    "drug2": { "brand": "Loop Diuretics", "generic": "Furosemide" }
+  },
+  {
+    "drug1": { "brand": "Chloramphenicol Eye Drops", "generic": "Chloramphenicol" },
+    "drug2": { "brand": "Azathioprine", "generic": "Azathioprine" }
+  },
+  {
+    "drug1": { "brand": "Azithromycin Eye Drops", "generic": "Azithromycin" },
+    "drug2": { "brand": "Cyclosporine", "generic": "Cyclosporine" }
+  },
+  {
+    "drug1": { "brand": "Ketorolac Eye Drops", "generic": "Ketorolac" },
+    "drug2": { "brand": "Clopidogrel", "generic": "Clopidogrel" }
+  },
+  {
+    "drug1": { "brand": "Diclofenac Eye Drops", "generic": "Diclofenac" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Flurbiprofen Eye Drops", "generic": "Flurbiprofen" },
+    "drug2": { "brand": "Aspirin", "generic": "Acetylsalicylic Acid" }
+  },
+  {
+    "drug1": { "brand": "Prednisolone Eye Drops", "generic": "Prednisolone" },
+    "drug2": { "brand": "Tacrolimus", "generic": "Tacrolimus" }
+  },
+  {
+    "drug1": { "brand": "Dexamethasone Eye Drops", "generic": "Dexamethasone" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+
+
+  {
+    "drug1": { "brand": "Salbutamol Inhaler", "generic": "Salbutamol" },
+    "drug2": { "brand": "Propranolol", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Formoterol Inhaler", "generic": "Formoterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Atenolol" }
+  },
+  {
+    "drug1": { "brand": "Salmeterol Inhaler", "generic": "Salmeterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Indacaterol Inhaler", "generic": "Indacaterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Metoprolol" }
+  },
+  {
+    "drug1": { "brand": "Vilanterol Inhaler", "generic": "Vilanterol" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Ipratropium Inhaler", "generic": "Ipratropium" },
+    "drug2": { "brand": "Beta Agonists", "generic": "Salbutamol" }
+  },
+  {
+    "drug1": { "brand": "Tiotropium Inhaler", "generic": "Tiotropium" },
+    "drug2": { "brand": "Anticholinergics", "generic": "Atropine" }
+  },
+  {
+    "drug1": { "brand": "Aclidinium Inhaler", "generic": "Aclidinium" },
+    "drug2": { "brand": "Beta Agonists", "generic": "Formoterol" }
+  },
+  {
+    "drug1": { "brand": "Umeclidinium Inhaler", "generic": "Umeclidinium" },
+    "drug2": { "brand": "CYP3A4 Inhibitors", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Glycopyrronium Inhaler", "generic": "Glycopyrronium" },
+    "drug2": { "brand": "Anticholinergics", "generic": "Scopolamine" }
+  },
+  {
+    "drug1": { "brand": "Budesonide Inhaler", "generic": "Budesonide" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone Inhaler", "generic": "Fluticasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone Inhaler", "generic": "Beclomethasone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Mometasone Inhaler", "generic": "Mometasone" },
+    "drug2": { "brand": "CYP3A4 Inhibitors", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Ciclesonide Inhaler", "generic": "Ciclesonide" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Albuterol Inhaler", "generic": "Albuterol" },
+    "drug2": { "brand": "Non-selective Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Levalbuterol Inhaler", "generic": "Levalbuterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Carvedilol" }
+  },
+  {
+    "drug1": { "brand": "Olodaterol Inhaler", "generic": "Olodaterol" },
+    "drug2": { "brand": "Antidepressants", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Arformoterol Inhaler", "generic": "Arformoterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Nadolol" }
+  },
+  {
+    "drug1": { "brand": "Fenoterol Inhaler", "generic": "Fenoterol" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Phenelzine" }
+  },
+
+
+  {
+    "drug1": { "brand": "Indacaterol/Glycopyrronium Inhaler", "generic": "Indacaterol + Glycopyrronium" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Vilanterol/Umeclidinium Inhaler", "generic": "Vilanterol + Umeclidinium" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Formoterol/Budesonide Inhaler", "generic": "Formoterol + Budesonide" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Salmeterol/Fluticasone Inhaler", "generic": "Salmeterol + Fluticasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone/Formoterol Inhaler", "generic": "Beclomethasone + Formoterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Mometasone/Formoterol Inhaler", "generic": "Mometasone + Formoterol" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone/Vilanterol Inhaler", "generic": "Fluticasone + Vilanterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Budesonide/Glycopyrronium/Formoterol Inhaler", "generic": "Budesonide + Glycopyrronium + Formoterol" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone/Umeclidinium/Vilanterol Inhaler", "generic": "Fluticasone + Umeclidinium + Vilanterol" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Ipratropium/Albuterol Inhaler", "generic": "Ipratropium + Albuterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Tiotropium/Olodaterol Inhaler", "generic": "Tiotropium + Olodaterol" },
+    "drug2": { "brand": "Antidepressants", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Aclidinium/Formoterol Inhaler", "generic": "Aclidinium + Formoterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Glycopyrronium/Indacaterol Inhaler", "generic": "Glycopyrronium + Indacaterol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Mometasone/Vilanterol Inhaler", "generic": "Mometasone + Vilanterol" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Ciclesonide Inhaler", "generic": "Ciclesonide" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Budesonide/Formoterol Inhaler", "generic": "Budesonide + Formoterol" },
+    "drug2": { "brand": "Diltiazem", "generic": "Diltiazem" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone/Salmeterol Inhaler", "generic": "Fluticasone + Salmeterol" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Umeclidinium/Vilanterol Inhaler", "generic": "Umeclidinium + Vilanterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Olodaterol/Tiotropium Inhaler", "generic": "Olodaterol + Tiotropium" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Levalbuterol Inhaler", "generic": "Levalbuterol" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+
+
+  {
+    "drug1": { "brand": "Fenoterol Inhaler", "generic": "Fenoterol" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Amitriptyline" }
+  },
+  {
+    "drug1": { "brand": "Salbutamol Inhaler", "generic": "Salbutamol" },
+    "drug2": { "brand": "Theophylline", "generic": "Theophylline" }
+  },
+  {
+    "drug1": { "brand": "Formoterol Inhaler", "generic": "Formoterol" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Phenelzine" }
+  },
+  {
+    "drug1": { "brand": "Salmeterol Inhaler", "generic": "Salmeterol" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Indacaterol Inhaler", "generic": "Indacaterol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Vilanterol Inhaler", "generic": "Vilanterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Ipratropium Inhaler", "generic": "Ipratropium" },
+    "drug2": { "brand": "Tiotropium", "generic": "Tiotropium" }
+  },
+  {
+    "drug1": { "brand": "Tiotropium Inhaler", "generic": "Tiotropium" },
+    "drug2": { "brand": "Oxybutynin", "generic": "Oxybutynin" }
+  },
+  {
+    "drug1": { "brand": "Aclidinium Inhaler", "generic": "Aclidinium" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Umeclidinium Inhaler", "generic": "Umeclidinium" },
+    "drug2": { "brand": "CYP3A4 Inhibitors", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Glycopyrronium Inhaler", "generic": "Glycopyrronium" },
+    "drug2": { "brand": "Anticholinergics", "generic": "Atropine" }
+  },
+  {
+    "drug1": { "brand": "Budesonide Inhaler", "generic": "Budesonide" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone Inhaler", "generic": "Fluticasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone Inhaler", "generic": "Beclomethasone" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Mometasone Inhaler", "generic": "Mometasone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Ciclesonide Inhaler", "generic": "Ciclesonide" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Olodaterol Inhaler", "generic": "Olodaterol" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Imipramine" }
+  },
+  {
+    "drug1": { "brand": "Arformoterol Inhaler", "generic": "Arformoterol" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Isocarboxazid" }
+  },
+  {
+    "drug1": { "brand": "Levalbuterol Inhaler", "generic": "Levalbuterol" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Albuterol Inhaler", "generic": "Albuterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Nadolol" }
+  },
+
+
+  {
+    "drug1": { "brand": "Formoterol/Budesonide Inhaler", "generic": "Formoterol + Budesonide" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Salmeterol/Fluticasone Inhaler", "generic": "Salmeterol + Fluticasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone/Formoterol Inhaler", "generic": "Beclomethasone + Formoterol" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Mometasone/Formoterol Inhaler", "generic": "Mometasone + Formoterol" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone/Vilanterol Inhaler", "generic": "Fluticasone + Vilanterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Indacaterol/Glycopyrronium Inhaler", "generic": "Indacaterol + Glycopyrronium" },
+    "drug2": { "brand": "Amiodarone", "generic": "Amiodarone" }
+  },
+  {
+    "drug1": { "brand": "Tiotropium/Olodaterol Inhaler", "generic": "Tiotropium + Olodaterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Aclidinium/Formoterol Inhaler", "generic": "Aclidinium + Formoterol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Umeclidinium/Vilanterol Inhaler", "generic": "Umeclidinium + Vilanterol" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Budesonide/Glycopyrronium/Formoterol Inhaler", "generic": "Budesonide + Glycopyrronium + Formoterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone/Umeclidinium/Vilanterol Inhaler", "generic": "Fluticasone + Umeclidinium + Vilanterol" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Olodaterol/Tiotropium Inhaler", "generic": "Olodaterol + Tiotropium" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Levalbuterol Inhaler", "generic": "Levalbuterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Fenoterol Inhaler", "generic": "Fenoterol" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Isocarboxazid" }
+  },
+  {
+    "drug1": { "brand": "Arformoterol Inhaler", "generic": "Arformoterol" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Nortriptyline" }
+  },
+  {
+    "drug1": { "brand": "Albuterol Inhaler", "generic": "Albuterol" },
+    "drug2": { "brand": "Digoxin", "generic": "Digoxin" }
+  },
+  {
+    "drug1": { "brand": "Salbutamol Inhaler", "generic": "Salbutamol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Nadolol" }
+  },
+  {
+    "drug1": { "brand": "Formoterol Inhaler", "generic": "Formoterol" },
+    "drug2": { "brand": "Amiodarone", "generic": "Amiodarone" }
+  },
+  {
+    "drug1": { "brand": "Salmeterol Inhaler", "generic": "Salmeterol" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Indacaterol Inhaler", "generic": "Indacaterol" },
+    "drug2": { "brand": "Diltiazem", "generic": "Diltiazem" }
+  },
+
+
+  {
+    "drug1": { "brand": "Vilanterol Inhaler", "generic": "Vilanterol" },
+    "drug2": { "brand": "Amiodarone", "generic": "Amiodarone" }
+  },
+  {
+    "drug1": { "brand": "Olodaterol Inhaler", "generic": "Olodaterol" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Arformoterol Inhaler", "generic": "Arformoterol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Fenoterol Inhaler", "generic": "Fenoterol" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Imipramine" }
+  },
+  {
+    "drug1": { "brand": "Levalbuterol Inhaler", "generic": "Levalbuterol" },
+    "drug2": { "brand": "Warfarin", "generic": "Warfarin" }
+  },
+  {
+    "drug1": { "brand": "Albuterol Inhaler", "generic": "Albuterol" },
+    "drug2": { "brand": "MAO Inhibitors", "generic": "Phenelzine" }
+  },
+  {
+    "drug1": { "brand": "Salbutamol Inhaler", "generic": "Salbutamol" },
+    "drug2": { "brand": "Tricyclic Antidepressants", "generic": "Amitriptyline" }
+  },
+  {
+    "drug1": { "brand": "Formoterol Inhaler", "generic": "Formoterol" },
+    "drug2": { "brand": "Beta Blockers", "generic": "Propranolol" }
+  },
+  {
+    "drug1": { "brand": "Salmeterol Inhaler", "generic": "Salmeterol" },
+    "drug2": { "brand": "CYP3A4 Inhibitors", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Indacaterol Inhaler", "generic": "Indacaterol" },
+    "drug2": { "brand": "Antidepressants", "generic": "Fluoxetine" }
+  },
+  {
+    "drug1": { "brand": "Tiotropium Inhaler", "generic": "Tiotropium" },
+    "drug2": { "brand": "Anticholinergics", "generic": "Atropine" }
+  },
+  {
+    "drug1": { "brand": "Aclidinium Inhaler", "generic": "Aclidinium" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  },
+  {
+    "drug1": { "brand": "Umeclidinium Inhaler", "generic": "Umeclidinium" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Glycopyrronium Inhaler", "generic": "Glycopyrronium" },
+    "drug2": { "brand": "Oxybutynin", "generic": "Oxybutynin" }
+  },
+  {
+    "drug1": { "brand": "Budesonide Inhaler", "generic": "Budesonide" },
+    "drug2": { "brand": "Itraconazole", "generic": "Itraconazole" }
+  },
+  {
+    "drug1": { "brand": "Fluticasone Inhaler", "generic": "Fluticasone" },
+    "drug2": { "brand": "Ritonavir", "generic": "Ritonavir" }
+  },
+  {
+    "drug1": { "brand": "Beclomethasone Inhaler", "generic": "Beclomethasone" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Mometasone Inhaler", "generic": "Mometasone" },
+    "drug2": { "brand": "Ketoconazole", "generic": "Ketoconazole" }
+  },
+  {
+    "drug1": { "brand": "Ciclesonide Inhaler", "generic": "Ciclesonide" },
+    "drug2": { "brand": "Clarithromycin", "generic": "Clarithromycin" }
+  },
+  {
+    "drug1": { "brand": "Budesonide/Formoterol Inhaler", "generic": "Budesonide + Formoterol" },
+    "drug2": { "brand": "Verapamil", "generic": "Verapamil" }
+  }
+]

@@ -18,12 +18,12 @@ class HealthJournalCard extends StatelessWidget {
          
           Image.asset(
             'assets/images/drug.png', 
-            height: 100,
+            height: 140,
             width: 120,
             fit: BoxFit.cover,
           ),
       
-          const SizedBox(width: 16),
+          const SizedBox(width: 6),
       
           
           Expanded(
@@ -31,9 +31,9 @@ class HealthJournalCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.end,
               children: const [
                 Text(
-                  'Your Health Journal',
+                  'Your Health Journal ✨',
                   style: TextStyle(
-                    fontSize: 20,
+                    fontSize: 24,
                     fontWeight: FontWeight.bold,
                     color: Colors.white,
                   ),
@@ -41,9 +41,9 @@ class HealthJournalCard extends StatelessWidget {
                 SizedBox(height: 8),
                 Center(
                   child: Text(
-                    'Adhering to prescribed medications leads to better health outcomes, and enhanced quality of life',
+                    'Consistent medication use fosters healing and a healthier life.',
                     style: TextStyle(
-                      fontSize: 11,
+                      fontSize: 18,
                       color: Colors.black,
                       fontWeight: FontWeight.bold
                     ),

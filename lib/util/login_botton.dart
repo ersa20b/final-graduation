@@ -4,7 +4,8 @@ class LoginBotton extends StatelessWidget {
   final String text;
   final Color color;
   final Function()? onTap;
-  const LoginBotton({super.key,required this.text, required this.color,this.onTap});
+  final TextStyle? style;
+  const LoginBotton({super.key,required this.text, required this.color,this.onTap,this.style});
 
   @override
   Widget build(BuildContext context) {

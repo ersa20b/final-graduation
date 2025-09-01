@@ -54,14 +54,14 @@ class _WeeklyCalendarState extends State<WeeklyCalendar> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    DateFormat.E().format(date), // Mon, Tue...
+                    DateFormat.E().format(date), 
                     style: TextStyle(
                       color: isSelected ? Colors.white : Colors.black,
                     ),
                   ),
                   const SizedBox(height: 4),
                   Text(
-                    date.day.toString(), // 28, 29...
+                    date.day.toString(), 
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: isSelected ? Colors.white : Colors.black,

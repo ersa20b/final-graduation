@@ -1,20 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:graduation_med_/models/profile_model.dart';
 import 'package:graduation_med_/util/edit_profile.dart';
 
 class DependentCard extends StatelessWidget {
-  final String name;
+  final ProfileModel profile;
   final String profileNumber;
   final int medicineCount;
   final VoidCallback onTap;
-  final VoidCallback onEdit;
+  final bool isOwner; //  جديد
 
   const DependentCard({
     super.key,
-    required this.name,
+    required this.profile,
     required this.profileNumber,
     required this.medicineCount,
     required this.onTap,
-    required this.onEdit,
+    this.isOwner = false, // الافتراضي مش owner
   });
 
   @override
@@ -35,25 +36,32 @@ class DependentCard extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text(profileNumber, style: const TextStyle(fontWeight: FontWeight.bold)),
+                  Text(
+                    profileNumber,
+                    style: const TextStyle(fontWeight: FontWeight.bold),
+                  ),
                   const SizedBox(height: 4),
-                  Text(name),
+                  Text(profile.name),
                   const SizedBox(height: 4),
-                  Text("Number Of Medicines: $medicineCount"),
+                  if (!isOwner)
+                    Text("Number Of Medicines: $medicineCount"),
+                  if (isOwner)
+                    const Text("Owner Account", style: TextStyle(color: Colors.blueGrey)),
                 ],
               ),
             ),
-            IconButton(
-              icon: const Icon(Icons.edit),
-              onPressed: (){
-                 Navigator.push(context,
-                                  MaterialPageRoute(builder: (context) {
-                                return const EditProfile();
-                              }
-                              )
-                );
-              },
-            ),
+            if (!isOwner)
+              IconButton(
+                icon: const Icon(Icons.edit),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => EditProfile(profile: profile),
+                    ),
+                  );
+                },
+              ),
           ],
         ),
       ),
